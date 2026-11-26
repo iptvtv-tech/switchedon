@@ -1,0 +1,10 @@
+{%- comment -%}Key points box. Reads key_points from the guide's front matter. Use once, after the answer.{%- endcomment -%}
+{% if page.key_points %}
+<div class="keypoints">
+  <strong class="t">Key points</strong>
+  <ul>
+    {% for p in page.key_points %}<li>{% include icon.html name="check" %}<span>{{ p | smartify }}</span></li>
+    {% endfor %}
+  </ul>
+</div>
+{% endif %}

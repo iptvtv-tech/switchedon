@@ -1,0 +1,55 @@
+# The five topic sections. Order = order in the menu and on the homepage.
+# start_here: up to two guides, picked by hand, shown as cards at the top of the topic page.
+# Give each guide's address. The content checks fail if one doesn't match a guide in that topic.
+# groups: optional, in the order they show. Each guide in the topic then names its group with group:.
+# The topic page only splits into groups once the topic has 8 or more guides.
+- slug: phones
+  name: "Phones and tablets"
+  short: "Phones and tablets"
+  icon: phone
+  card: "Networks, eSIM, switching and setting up a new phone."
+  intro: "Networks, eSIM, switching and setting up a phone in Ireland. Every guide is checked against the networks' own pages and ComReg."
+  start_here:
+    - "/phones/switch-to-esim/"
+    - "/phones/keep-your-number/"
+  groups:
+    - "Switching and setting up"
+    - "Signal and calls"
+    - "Travelling"
+    - "Scams and security"
+- slug: broadband
+  name: "Broadband and Wi-Fi"
+  short: "Broadband and Wi-Fi"
+  icon: wifi
+  card: "Fibre at your address, switching provider and fixing dead spots."
+  intro: "Getting connected in Ireland: checking what's available at your address, switching provider and fixing Wi-Fi at home."
+  start_here:
+    - "/broadband/fibre-at-my-address/"
+    - "/broadband/starlink-ireland/"
+- slug: computers
+  name: "Computers and laptops"
+  short: "Computers"
+  icon: laptop
+  card: "Choosing, setting up and keeping an older machine safe."
+  intro: "Choosing, setting up and looking after a computer or laptop in Ireland."
+  start_here:
+    - "/computers/laptop-school-college/"
+    - "/computers/windows-10-end-of-support/"
+- slug: apps
+  name: "Apps and software"
+  short: "Apps and software"
+  icon: apps
+  card: "Which apps work here, and the Irish ones you'll need."
+  intro: "Which apps and services work in Ireland, and setting up the Irish ones you'll need."
+  start_here:
+    - "/apps/mygovid-phone/"
+    - "/apps/uber-ireland/"
+- slug: buying
+  name: "Buying tech in Ireland"
+  short: "Buying in Ireland"
+  icon: bag
+  card: "Irish shops, UK orders, warranties and your rights."
+  intro: "Where to buy, what it costs here, and your rights when something goes wrong. Every guide is checked against the CCPC, Revenue and other Irish public bodies."
+  start_here:
+    - "/buying/faulty-tech-rights/"
+    - "/buying/uk-shop-vat-customs/"

@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 647" aria-hidden="true" focusable="false"><defs><marker id="dg-arrow-keepnumber" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#5B6470"/></marker></defs><line x1="17" y1="31" x2="17" y2="487" stroke="#7C8682" stroke-width="2"/>
+<circle cx="17" cy="31" r="14" fill="#0E7C5A"/>
+<text x="17" y="36" font-family="'Space Grotesk',system-ui,sans-serif" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle">1</text>
+<rect x="42" y="1" width="317" height="100" rx="12" fill="#FFFFFF" stroke="#7C8682" stroke-width="1.5"/>
+<rect x="56" y="14" width="45" height="20" rx="10" fill="#F3F5F4" stroke="#7C8682" stroke-width="1"/>
+<text x="78.5" y="28" font-family="'Inter',system-ui,sans-serif" font-size="11" font-weight="700" fill="#14181F" text-anchor="middle" letter-spacing="0.06em">YOU</text>
+<text x="56" y="56" font-family="'Space Grotesk',system-ui,sans-serif" font-size="15.5" font-weight="700" fill="#14181F">Ask to keep your number</text>
+<text x="56" y="77" font-family="'Inter',system-ui,sans-serif" font-size="13" font-weight="400" fill="#14181F">Tell the new network when you sign up.</text>
+<text x="56" y="94" font-family="'Inter',system-ui,sans-serif" font-size="13" font-weight="400" fill="#14181F">It isn’t done automatically.</text>
+<circle cx="17" cy="145" r="14" fill="#0E7C5A"/>
+<text x="17" y="150" font-family="'Space Grotesk',system-ui,sans-serif" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle">2</text>
+<rect x="42" y="115" width="317" height="100" rx="12" fill="#FFFFFF" stroke="#7C8682" stroke-width="1.5"/>
+<rect x="56" y="128" width="111" height="20" rx="10" fill="#0E7C5A" stroke="#0E7C5A" stroke-width="1"/>
+<text x="111.5" y="142" font-family="'Inter',system-ui,sans-serif" font-size="11" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="0.06em">NEW NETWORK</text>
+<text x="56" y="170" font-family="'Space Grotesk',system-ui,sans-serif" font-size="15.5" font-weight="700" fill="#14181F">Contacts your old network</text>
+<text x="56" y="191" font-family="'Inter',system-ui,sans-serif" font-size="13" font-weight="400" fill="#14181F">It manages the switch, so you don’t have</text>
+<text x="56" y="208" font-family="'Inter',system-ui,sans-serif" font-size="13" font-weight="400" fill="#14181F">to go between them.</text>
+<circle cx="17" cy="259" r="14" fill="#0E7C5A"/>
+<text x="17" y="264" font-family="'Space Grotesk',system-ui,sans-serif" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle">3</text>
+<rect x="42" y="229" width="317" height="100" rx="12" fill="#FFFFFF" stroke="#7C8682" stroke-width="1.5"/>
+<rect x="56" y="242" width="178" height="20" rx="10" fill="#E7F2EF" stroke="#0E7C5A" stroke-width="1"/>
+<text x="145.0" y="256" font-family="'Inter',system-ui,sans-serif" font-size="11" font-weight="700" fill="#0A5C43" text-anchor="middle" letter-spacing="0.06em">YOU AND NEW NETWORK</text>
+<text x="56" y="284" font-family="'Space Grotesk',system-ui,sans-serif" font-size="15.5" font-weight="700" fill="#14181F">Agree the date</text>
+<text x="56" y="305" font-family="'Inter',system-ui,sans-serif" font-size="13" font-weight="400" fill="#14181F">For the switch and the number transfer. If</text>
+<text x="56" y="322" font-family="'Inter',system-ui,sans-serif" font-size="13" font-weight="400" fill="#14181F">there’s a delay, you must be kept updated.</text>
+<circle cx="17" cy="373" r="14" fill="#0E7C5A"/>
+<text x="17" y="378" font-family="'Space Grotesk',system-ui,sans-serif" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle">4</text>
+<rect x="42" y="343" width="317" height="100" rx="12" fill="#FFFFFF" stroke="#7C8682" stroke-width="1.5"/>
+<rect x="56" y="356" width="45" height="20" rx="10" fill="#F3F5F4" stroke="#7C8682" stroke-width="1"/>
+<text x="78.5" y="370" font-family="'Inter',system-ui,sans-serif" font-size="11" font-weight="700" fill="#14181F" text-anchor="middle" letter-spacing="0.06em">YOU</text>
+<text x="56" y="398" font-family="'Space Grotesk',system-ui,sans-serif" font-size="15.5" font-weight="700" fill="#14181F">Follow its steps</text>
+<text x="56" y="419" font-family="'Inter',system-ui,sans-serif" font-size="13" font-weight="400" fill="#14181F">These vary: Tesco Mobile, for example,</text>
+<text x="56" y="436" font-family="'Inter',system-ui,sans-serif" font-size="13" font-weight="400" fill="#14181F">texts a code to your current SIM.</text>
+<circle cx="17" cy="487" r="14" fill="#0E7C5A"/>
+<text x="17" y="492" font-family="'Space Grotesk',system-ui,sans-serif" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle">5</text>
+<rect x="42" y="457" width="317" height="100" rx="12" fill="#FFFFFF" stroke="#7C8682" stroke-width="1.5"/>
+<rect x="56" y="470" width="111" height="20" rx="10" fill="#0E7C5A" stroke="#0E7C5A" stroke-width="1"/>
+<text x="111.5" y="484" font-family="'Inter',system-ui,sans-serif" font-size="11" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="0.06em">NEW NETWORK</text>
+<text x="56" y="512" font-family="'Space Grotesk',system-ui,sans-serif" font-size="15.5" font-weight="700" fill="#14181F">Your number moves across</text>
+<text x="56" y="533" font-family="'Inter',system-ui,sans-serif" font-size="13" font-weight="400" fill="#14181F">It must work on the new network within one</text>
+<text x="56" y="550" font-family="'Inter',system-ui,sans-serif" font-size="13" font-weight="400" fill="#14181F">working day of the agreed date.</text>
+<rect x="1" y="571" width="358" height="74" rx="12" fill="#E7F2EF" stroke="#0E7C5A" stroke-width="1.5"/>
+<text x="180" y="595" font-family="'Inter',system-ui,sans-serif" font-size="13.5" font-weight="600" fill="#0A5C43" text-anchor="middle">Your old contract ends when the new service</text>
+<text x="180" y="613" font-family="'Inter',system-ui,sans-serif" font-size="13.5" font-weight="600" fill="#0A5C43" text-anchor="middle">begins. If the move fails, your old network</text>
+<text x="180" y="631" font-family="'Inter',system-ui,sans-serif" font-size="13.5" font-weight="600" fill="#0A5C43" text-anchor="middle">must switch your number back on.</text></svg>

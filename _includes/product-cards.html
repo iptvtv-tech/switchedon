@@ -1,0 +1,12 @@
+{%- comment -%}
+A buying guide's picks, in the order of the guide's front matter "products" list.
+Place it by hand where the picks belong: {% include product-cards.html %}
+At most three cards, and only on buying guides.
+{%- endcomment -%}
+{%- if page.format == "buying-guide" and page.products -%}
+<div class="products">
+{%- for id in page.products limit: 3 -%}
+{% include product-card.html id=id %}
+{%- endfor -%}
+</div>
+{%- endif -%}

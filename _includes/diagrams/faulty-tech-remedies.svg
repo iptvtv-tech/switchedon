@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 694" aria-hidden="true" focusable="false"><defs><marker id="dg-arrow-faulty" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#5B6470"/></marker></defs><rect x="1" y="1" width="358" height="58" rx="12" fill="#FFFFFF" stroke="#7C8682" stroke-width="1.5"/>
+<text x="180.0" y="26" font-family="'Space Grotesk',system-ui,sans-serif" font-size="15.5" font-weight="700" fill="#14181F" text-anchor="middle">Tell the seller about the fault</text>
+<text x="180.0" y="46" font-family="'Inter',system-ui,sans-serif" font-size="13" font-weight="400" fill="#5B6470" text-anchor="middle">as soon as you notice it</text>
+<line x1="83.5" y1="59" x2="83.5" y2="88" stroke="#5B6470" stroke-width="1.5" marker-end="url(#dg-arrow-faulty)"/>
+<line x1="276.5" y1="59" x2="276.5" y2="88" stroke="#5B6470" stroke-width="1.5" marker-end="url(#dg-arrow-faulty)"/>
+<rect x="1" y="90" width="165" height="146" rx="12" fill="#E7F2EF" stroke="#0E7C5A" stroke-width="1.5"/>
+<rect x="14" y="103" width="136" height="20" rx="10" fill="#0E7C5A" stroke="#0E7C5A" stroke-width="1"/>
+<text x="82.0" y="117" font-family="'Inter',system-ui,sans-serif" font-size="11" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="0.06em">WITHIN 30 DAYS</text>
+<text x="14" y="148" font-family="'Space Grotesk',system-ui,sans-serif" font-size="15.5" font-weight="700" fill="#0A5C43">Full refund</text>
+<text x="14" y="170" font-family="'Inter',system-ui,sans-serif" font-size="13" font-weight="400" fill="#14181F">Reject it. You don’t</text>
+<text x="14" y="187" font-family="'Inter',system-ui,sans-serif" font-size="13" font-weight="400" fill="#14181F">have to accept a</text>
+<text x="14" y="204" font-family="'Inter',system-ui,sans-serif" font-size="13" font-weight="400" fill="#14181F">repair or a</text>
+<text x="14" y="221" font-family="'Inter',system-ui,sans-serif" font-size="13" font-weight="400" fill="#14181F">replacement.</text>
+<rect x="194" y="90" width="165" height="146" rx="12" fill="#FFFFFF" stroke="#7C8682" stroke-width="1.5"/>
+<rect x="207" y="103" width="128" height="20" rx="10" fill="#F3F5F4" stroke="#7C8682" stroke-width="1"/>
+<text x="271.0" y="117" font-family="'Inter',system-ui,sans-serif" font-size="11" font-weight="700" fill="#14181F" text-anchor="middle" letter-spacing="0.06em">AFTER 30 DAYS</text>
+<text x="207" y="148" font-family="'Space Grotesk',system-ui,sans-serif" font-size="15.5" font-weight="700" fill="#14181F">Repair or</text>
+<text x="207" y="167" font-family="'Space Grotesk',system-ui,sans-serif" font-size="15.5" font-weight="700" fill="#14181F">replacement</text>
+<text x="207" y="189" font-family="'Inter',system-ui,sans-serif" font-size="13" font-weight="400" fill="#14181F">You choose which. A</text>
+<text x="207" y="206" font-family="'Inter',system-ui,sans-serif" font-size="13" font-weight="400" fill="#14181F">repair must be free.</text>
+<line x1="276.5" y1="236" x2="276.5" y2="264" stroke="#5B6470" stroke-width="1.5" marker-end="url(#dg-arrow-faulty)"/>
+<rect x="194" y="266" width="165" height="84" rx="12" fill="#F3F5F4" stroke="#0A5C43" stroke-width="1.5"/>
+<text x="276.5" y="293" font-family="'Inter',system-ui,sans-serif" font-size="14" font-weight="600" fill="#14181F" text-anchor="middle">Not possible, or</text>
+<text x="276.5" y="311" font-family="'Inter',system-ui,sans-serif" font-size="14" font-weight="600" fill="#14181F" text-anchor="middle">not done in a</text>
+<text x="276.5" y="329" font-family="'Inter',system-ui,sans-serif" font-size="14" font-weight="600" fill="#14181F" text-anchor="middle">reasonable time?</text>
+<rect x="1" y="266" width="165" height="84" rx="12" fill="#FFFFFF" stroke="#7C8682" stroke-width="1.5"/>
+<text x="14" y="292" font-family="'Space Grotesk',system-ui,sans-serif" font-size="15.5" font-weight="700" fill="#14181F">Serious fault?</text>
+<text x="14" y="314" font-family="'Inter',system-ui,sans-serif" font-size="13" font-weight="400" fill="#14181F">Like a safety risk: go</text>
+<text x="14" y="331" font-family="'Inter',system-ui,sans-serif" font-size="13" font-weight="400" fill="#14181F">straight to a refund.</text>
+<line x1="276.5" y1="350" x2="276.5" y2="378" stroke="#5B6470" stroke-width="1.5" marker-end="url(#dg-arrow-faulty)"/>
+<text x="285.5" y="369" font-family="'Inter',system-ui,sans-serif" font-size="12.5" font-weight="600" fill="#0A5C43">Yes</text>
+<rect x="194" y="380" width="165" height="104" rx="12" fill="#E7F2EF" stroke="#0E7C5A" stroke-width="1.5"/>
+<text x="207" y="406" font-family="'Space Grotesk',system-ui,sans-serif" font-size="15.5" font-weight="700" fill="#0A5C43">Refund, or</text>
+<text x="207" y="425" font-family="'Space Grotesk',system-ui,sans-serif" font-size="15.5" font-weight="700" fill="#0A5C43">money off</text>
+<text x="207" y="447" font-family="'Inter',system-ui,sans-serif" font-size="13" font-weight="400" fill="#14181F">Hand it back, or keep</text>
+<text x="207" y="464" font-family="'Inter',system-ui,sans-serif" font-size="13" font-weight="400" fill="#14181F">it at a lower price.</text>
+<text x="180.0" y="516" font-family="'Space Grotesk',system-ui,sans-serif" font-size="15" font-weight="700" fill="#14181F" text-anchor="middle">Up to six years, even out of warranty</text>
+<rect x="1" y="530" width="165" height="92" rx="12" fill="#E7F2EF" stroke="#0E7C5A" stroke-width="1.5"/>
+<text x="14" y="555" font-family="'Space Grotesk',system-ui,sans-serif" font-size="15" font-weight="700" fill="#0A5C43">First 12 months</text>
+<text x="14" y="577" font-family="'Inter',system-ui,sans-serif" font-size="13" font-weight="400" fill="#14181F">The fault is presumed</text>
+<text x="14" y="594" font-family="'Inter',system-ui,sans-serif" font-size="13" font-weight="400" fill="#14181F">to have been there</text>
+<text x="14" y="611" font-family="'Inter',system-ui,sans-serif" font-size="13" font-weight="400" fill="#14181F">from the start.</text>
+<rect x="194" y="530" width="165" height="92" rx="12" fill="#FFFFFF" stroke="#7C8682" stroke-width="1.5"/>
+<text x="207" y="555" font-family="'Space Grotesk',system-ui,sans-serif" font-size="15" font-weight="700" fill="#14181F">After 12 months</text>
+<text x="207" y="577" font-family="'Inter',system-ui,sans-serif" font-size="13" font-weight="400" fill="#14181F">It’s up to you to</text>
+<text x="207" y="594" font-family="'Inter',system-ui,sans-serif" font-size="13" font-weight="400" fill="#14181F">show it was there</text>
+<text x="207" y="611" font-family="'Inter',system-ui,sans-serif" font-size="13" font-weight="400" fill="#14181F">when you got it.</text>
+<rect x="1" y="636" width="358" height="56" rx="12" fill="#E7F2EF" stroke="#0E7C5A" stroke-width="1.5"/>
+<text x="180.0" y="660" font-family="'Inter',system-ui,sans-serif" font-size="13.5" font-weight="600" fill="#0A5C43" text-anchor="middle">It’s the seller’s job to put it right,</text>
+<text x="180.0" y="678" font-family="'Inter',system-ui,sans-serif" font-size="13.5" font-weight="600" fill="#0A5C43" text-anchor="middle">not the manufacturer’s.</text></svg>

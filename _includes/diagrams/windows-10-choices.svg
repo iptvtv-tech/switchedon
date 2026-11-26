@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 454" aria-hidden="true" focusable="false"><defs><marker id="dg-arrow-win10" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#5B6470"/></marker></defs><rect x="1" y="1" width="358" height="62" rx="12" fill="#FFFFFF" stroke="#7C8682" stroke-width="1.5"/>
+<text x="180.0" y="27" font-family="'Space Grotesk',system-ui,sans-serif" font-size="16" font-weight="700" fill="#14181F" text-anchor="middle">Check for updates</text>
+<text x="180.0" y="48" font-family="'Inter',system-ui,sans-serif" font-size="12.5" font-weight="400" fill="#5B6470" text-anchor="middle">Settings &gt; Update &amp; Security &gt; Windows Update</text>
+<line x1="83.5" y1="63" x2="83.5" y2="92" stroke="#5B6470" stroke-width="1.5" marker-end="url(#dg-arrow-win10)"/>
+<rect x="1" y="94" width="165" height="92" rx="12" fill="#F3F5F4" stroke="#0A5C43" stroke-width="1.5"/>
+<text x="83.5" y="124" font-family="'Inter',system-ui,sans-serif" font-size="15" font-weight="600" fill="#14181F" text-anchor="middle">Windows 11</text>
+<text x="83.5" y="144" font-family="'Inter',system-ui,sans-serif" font-size="15" font-weight="600" fill="#14181F" text-anchor="middle">upgrade</text>
+<text x="83.5" y="164" font-family="'Inter',system-ui,sans-serif" font-size="15" font-weight="600" fill="#14181F" text-anchor="middle">offered?</text>
+<line x1="166" y1="140" x2="192" y2="140" stroke="#5B6470" stroke-width="1.5" marker-end="url(#dg-arrow-win10)"/>
+<text x="180.0" y="132" font-family="'Inter',system-ui,sans-serif" font-size="12.5" font-weight="600" fill="#0A5C43" text-anchor="middle">Yes</text>
+<rect x="194" y="94" width="165" height="92" rx="12" fill="#E7F2EF" stroke="#0E7C5A" stroke-width="1.5"/>
+<text x="207" y="119" font-family="'Space Grotesk',system-ui,sans-serif" font-size="15.5" font-weight="700" fill="#0A5C43">Upgrade free</text>
+<text x="207" y="141" font-family="'Inter',system-ui,sans-serif" font-size="13" font-weight="400" fill="#14181F">Windows 10 Home or</text>
+<text x="207" y="158" font-family="'Inter',system-ui,sans-serif" font-size="13" font-weight="400" fill="#14181F">Pro to the same</text>
+<text x="207" y="175" font-family="'Inter',system-ui,sans-serif" font-size="13" font-weight="400" fill="#14181F">edition of Windows 11.</text>
+<line x1="83.5" y1="186" x2="83.5" y2="214" stroke="#5B6470" stroke-width="1.5" marker-end="url(#dg-arrow-win10)"/>
+<text x="92.5" y="205" font-family="'Inter',system-ui,sans-serif" font-size="12.5" font-weight="600" fill="#0A5C43">No</text>
+<rect x="1" y="216" width="358" height="56" rx="12" fill="#FFFFFF" stroke="#7C8682" stroke-width="1.5"/>
+<text x="180.0" y="239" font-family="'Inter',system-ui,sans-serif" font-size="13.5" font-weight="600" fill="#14181F" text-anchor="middle">Microsoft’s advice for a PC that</text>
+<text x="180.0" y="257" font-family="'Inter',system-ui,sans-serif" font-size="13.5" font-weight="600" fill="#14181F" text-anchor="middle">can’t run Windows 11: one of these</text>
+<line x1="83.5" y1="272" x2="83.5" y2="300" stroke="#5B6470" stroke-width="1.5" marker-end="url(#dg-arrow-win10)"/>
+<line x1="276.5" y1="272" x2="276.5" y2="300" stroke="#5B6470" stroke-width="1.5" marker-end="url(#dg-arrow-win10)"/>
+<rect x="1" y="302" width="165" height="150" rx="12" fill="#E7F2EF" stroke="#0E7C5A" stroke-width="1.5"/>
+<text x="14" y="327" font-family="'Space Grotesk',system-ui,sans-serif" font-size="15.5" font-weight="700" fill="#0A5C43">Enrol in ESU</text>
+<text x="14" y="349" font-family="'Inter',system-ui,sans-serif" font-size="13" font-weight="400" fill="#14181F">Security updates until</text>
+<text x="14" y="366" font-family="'Inter',system-ui,sans-serif" font-size="13" font-weight="400" fill="#14181F">12 October 2027. Free</text>
+<text x="14" y="383" font-family="'Inter',system-ui,sans-serif" font-size="13" font-weight="400" fill="#14181F">with your Microsoft</text>
+<text x="14" y="400" font-family="'Inter',system-ui,sans-serif" font-size="13" font-weight="400" fill="#14181F">account, or US$30</text>
+<text x="14" y="417" font-family="'Inter',system-ui,sans-serif" font-size="13" font-weight="400" fill="#14181F">plus tax to keep a</text>
+<text x="14" y="434" font-family="'Inter',system-ui,sans-serif" font-size="13" font-weight="400" fill="#14181F">local account.</text>
+<rect x="194" y="302" width="165" height="150" rx="12" fill="#E7F2EF" stroke="#0E7C5A" stroke-width="1.5"/>
+<text x="207" y="327" font-family="'Space Grotesk',system-ui,sans-serif" font-size="15.5" font-weight="700" fill="#0A5C43">Replace the PC</text>
+<text x="207" y="349" font-family="'Inter',system-ui,sans-serif" font-size="13" font-weight="400" fill="#14181F">With one that can run</text>
+<text x="207" y="366" font-family="'Inter',system-ui,sans-serif" font-size="13" font-weight="400" fill="#14181F">Windows 11. Recycling</text>
+<text x="207" y="383" font-family="'Inter',system-ui,sans-serif" font-size="13" font-weight="400" fill="#14181F">the old PC is free.</text></svg>

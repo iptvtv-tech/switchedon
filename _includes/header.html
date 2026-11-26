@@ -1,0 +1,14 @@
+<a class="skip" href="#main">Skip to content</a>
+{% if site.preview_mode %}<div class="preview-bar">Private preview: not live, not on Google</div>{% endif %}
+<header class="site-header">
+  <div class="wrap bar">
+    <a class="logo head" href="{{ '/' | relative_url }}" aria-label="Switched On home">Switched{% include icon.html name="mark" %}n</a>
+    <nav class="main-nav" id="main-nav" aria-label="Main">
+      {% for t in site.data.topics %}
+      <a href="{{ '/' | append: t.slug | append: '/' | relative_url }}"{% if page.topic == t.slug or page.topic_slug == t.slug %} class="current" aria-current="page"{% endif %}>{{ t.short }}</a>
+      {% endfor %}
+      <a class="pill" href="{{ '/#newsletter' | relative_url }}">Newsletter</a>
+    </nav>
+    <button class="menu-btn" type="button" aria-expanded="false" aria-controls="main-nav" onclick="var n=document.getElementById('main-nav');var o=n.classList.toggle('open');this.setAttribute('aria-expanded',o);">Menu{% include icon.html name="menu" %}</button>
+  </div>
+</header>

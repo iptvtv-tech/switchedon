@@ -1,0 +1,15 @@
+{%- comment -%}
+One product card. Usage (buying guides only): {% include product-card.html id="macbook-air-13-m5" %}
+Reads _data/products.yml. No price and no shop image, ever.
+Paid cards show "Ad", say "(paid link)" and carry rel="sponsored nofollow".
+{%- endcomment -%}
+{%- assign p = site.data.products[include.id] -%}
+{%- if p and page.format == "buying-guide" -%}
+<div class="product">
+<div class="top"><span class="tile">{% include icon.html name="laptop" %}</span><div class="pname">{% if p.paid %}<span class="tag tag-ad">Ad</span>{% endif %}<span class="name">{{ p.name | smartify }}</span><span class="kind">{{ p.kind | smartify }}</span></div></div>
+<p class="why">{{ p.why | smartify }}</p>
+<p class="specs">{{ p.specs | smartify }}</p>
+{% if p.note %}<p class="note">{{ p.note | smartify }}</p>{% endif %}
+{% if p.paid %}<a class="btn btn-green" href="{{ p.url }}" rel="sponsored nofollow">Check the price at {{ p.where }} (paid link)</a>{% else %}<a class="btn btn-ghost" href="{{ p.url }}">See it at {{ p.where }}</a>{% endif %}
+</div>
+{%- endif -%}

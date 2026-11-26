@@ -1,0 +1,3 @@
+{%- comment -%}One guide in a topic page's list. Used for the plain list and for each group.{%- endcomment -%}
+{%- assign g = include.g %}
+        <div class="rowi"><div class="main"><a href="{{ g.url | relative_url }}">{{ g.title }}</a><span>{{ g.summary }}</span></div><div class="side"><span class="tag {% if g.format == 'quick-answer' %}tag-quick{% else %}tag-guide{% endif %}">{% if g.format == 'quick-answer' %}Quick answer{% elsif g.format == 'buying-guide' %}Buying guide{% else %}Guide{% endif %}</span><span>Checked {{ g.last_checked | date: "%-d %b %Y" }}</span></div></div>

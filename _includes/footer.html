@@ -1,0 +1,21 @@
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="about">
+      <span class="logo" role="img" aria-label="Switched On">Switched{% include icon.html name="mark" %}n</span>
+      <p>Independent, plain-English tech help for Irish homes. Every guide is researched from Irish sources; we don't test products ourselves.</p>
+      <p>A sister site to <a href="{{ site.sister_site.url }}">{{ site.sister_site.name }}</a>, which covers TV and streaming.</p>
+      <p>&copy; {{ site.time | date: "%Y" }} Switched On &middot; Co. Kilkenny</p>
+    </div>
+    <nav class="footer-nav" aria-label="Footer">
+      <a href="{{ '/ask/' | relative_url }}">Ask a question</a>
+      {% if site.whatsapp_channel %}<a href="{{ site.whatsapp_channel }}">Follow on WhatsApp</a>{% endif %}
+      {% if site.preview_mode != true %}<a href="{{ '/feed.xml' | relative_url }}">RSS feed</a>{% endif %}
+      <a href="{{ '/about/' | relative_url }}">About</a>
+      <a href="{{ '/how-we-check/' | relative_url }}">How we check guides</a>
+      <a href="{{ '/how-we-make-money/' | relative_url }}">How we make money</a>
+      <a href="{{ '/contact/' | relative_url }}">Contact</a>
+      <a href="{{ '/privacy/' | relative_url }}">Privacy</a>
+      <a href="{{ '/accessibility/' | relative_url }}">Accessibility</a>
+    </nav>
+  </div>
+</footer>

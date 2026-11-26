@@ -1,0 +1,52 @@
+---
+layout: default
+---
+{%- assign topic = site.data.topics | where: "slug", page.topic_slug | first -%}
+{%- assign guides = site.guides | where: "topic", page.topic_slug | sort: "last_checked" | reverse -%}
+<main id="main">
+  <section class="topic-band">
+    <div class="wrap">
+      <nav class="crumb" aria-label="Breadcrumb"><a href="{{ '/' | relative_url }}">Home</a><span aria-hidden="true">/</span><span>{{ topic.name }}</span></nav>
+      <div class="topic-title"><span class="tile lg">{% include icon.html name=topic.icon %}</span><h1>{{ topic.name }}</h1></div>
+      <p class="lead">{{ topic.intro }}</p>
+    </div>
+  </section>
+
+  {% if topic.start_here and topic.start_here.size > 0 %}
+  <section class="wrap section start-here">
+    <h2>Start here</h2>
+    <div class="cards">
+      {% for u in topic.start_here limit: 2 %}{% assign sh = guides | where: "url", u | first %}{% if sh %}{% include guide-card.html guide=sh %}{% endif %}{% endfor %}
+    </div>
+  </section>
+  {% endif %}
+
+  <section class="wrap topic-list">
+    <div class="list-col">
+      <h2 class="h2">All guides</h2>
+      {% if guides.size > 0 and topic.groups and guides.size >= 8 %}
+      {% for grp in topic.groups %}{% assign in_group = guides | where: "group", grp %}{% if in_group.size > 0 %}
+      <div class="group">
+        <h3 class="group-h">{{ grp }}</h3>
+        <div class="rows">
+          {% for g in in_group %}{% include topic-row.html g=g %}{% endfor %}
+        </div>
+      </div>
+      {% endif %}{% endfor %}
+      {% elsif guides.size > 0 %}
+      <div class="rows">
+        {% for g in guides %}{% include topic-row.html g=g %}{% endfor %}
+      </div>
+      {% else %}
+      <p class="empty">Guides for this topic are on the way.</p>
+      {% endif %}
+    </div>
+    <aside class="side-col">
+      <div class="aboutbox">
+        <p class="t">Can't find your question?</p>
+        <p>Tell us what you're trying to do. John Paul reads the questions, and the most-asked ones become guides.</p>
+        <a href="{{ '/ask/' | relative_url }}">Ask a question</a>
+      </div>
+    </aside>
+  </section>
+</main>

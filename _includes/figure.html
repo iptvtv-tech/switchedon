@@ -1,0 +1,6 @@
+{%- comment -%}A diagram drawn for the site: no stock photos, screenshots or logos.
+Use it in a guide as: include figure.html svg="diagrams/NAME.svg" alt="everything the diagram shows, in words" caption="one line, saying where it comes from"
+For a drawing redrawn from someone else's files, add licence="CC BY 4.0" licence_url="the licence's address" (shown as a link after the caption).
+The svg lives in _includes/diagrams/, uses only the site's colours and fonts, and every label must trace to the guide's sources.
+The checks fail a figure without alt text or a caption, and a diagram that loads anything from outside.{%- endcomment -%}
+<figure class="diagram"><div class="diagram-art" role="img" aria-label="{{ include.alt | escape }}">{% include {{ include.svg }} %}</div><figcaption>{{ include.caption | smartify }}{% if include.licence %} <a href="{{ include.licence_url }}">{{ include.licence }}</a>{% endif %}</figcaption></figure>

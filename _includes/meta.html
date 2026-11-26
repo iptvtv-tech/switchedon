@@ -1,0 +1,9 @@
+<div class="meta">
+  <span class="who"><span class="avatar" aria-hidden="true">JP</span><span>Checked by <a href="{{ site.editor.url | relative_url }}">{{ site.editor.name }}</a> &middot; <a class="ai" href="{{ '/how-we-check/' | relative_url }}#how-guides-are-written">Drafted with AI help</a></span></span>
+  {% if page.last_checked %}<span>Last checked {{ page.last_checked | date: "%-d %B %Y" }}</span>{% endif %}
+  {% if page.review_basis == "research" %}<a class="tag tag-research" href="{{ '/how-we-check/' | relative_url }}">{% include icon.html name="shield" %}Researched guide</a>{% endif %}
+</div>
+{%- if page.changes %}
+{%- assign newest = page.changes | sort: "date" | reverse | first %}
+<p class="changed">{% include icon.html name="refresh" %}<span><strong>Updated {{ newest.date | date: "%-d %B %Y" }}:</strong> {{ newest.what | smartify }}. <a href="#changes">See all changes</a></span></p>
+{%- endif %}

@@ -1,0 +1,4 @@
+<div class="fix">
+  <p><strong>Spotted something out of date?</strong> Email <a href="mailto:{{ site.email }}">{{ site.email }}</a>. We fix errors within two working days and note every change here.</p>
+  {% if page.changes %}{% assign log = page.changes | sort: "date" | reverse %}<ul class="log" id="changes" aria-label="Changes to this guide">{% for c in log %}<li>Updated {{ c.date | date: "%-d %B %Y" }}: {{ c.what | smartify }}</li>{% endfor %}</ul>{% endif %}
+</div>

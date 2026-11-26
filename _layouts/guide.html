@@ -1,0 +1,25 @@
+---
+layout: default
+---
+{%- assign topic = site.data.topics | where: "slug", page.topic | first -%}
+<main id="main" class="wrap layout">
+  <article class="article">
+    <nav class="crumb" aria-label="Breadcrumb"><a href="{{ '/' | relative_url }}">Home</a><span aria-hidden="true">/</span><a href="{{ '/' | append: topic.slug | append: '/' | relative_url }}">{{ topic.name }}</a></nav>
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":{{ '/' | absolute_url | jsonify }}},{"@type":"ListItem","position":2,"name":{{ topic.name | jsonify }},"item":{{ '/' | append: topic.slug | append: '/' | absolute_url | jsonify }}},{"@type":"ListItem","position":3,"name":{{ page.title | jsonify }},"item":{{ page.url | absolute_url | jsonify }}}]}</script>
+    {% if page.format == "quick-answer" %}<span class="tag tag-quick">Quick answer</span>{% endif %}
+    <h1>{{ page.title }}</h1>
+    {% include meta.html %}
+    {% if page.affiliate %}{% include disclosure.html %}{% endif %}
+    <div class="content">
+      {{ content }}
+    </div>
+    {% if page.sister %}{% include sister.html %}{% endif %}
+    {% include related.html %}
+    {% include sources.html %}
+    {% include fix.html %}
+  </article>
+  <aside class="rail" aria-label="About this guide">
+    {% include toc.html html=content %}
+    {% include about-guide.html %}
+  </aside>
+</main>

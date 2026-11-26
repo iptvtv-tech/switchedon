@@ -1,0 +1,8 @@
+{%- comment -%}
+  The date a guide's prices were checked, above a price table or list.
+  Needs prices_checked: (YYYY-MM-DD) in the guide's front matter; one date per guide.
+  Optional: what="Charges" (default "Prices"); note="…" replaces the second sentence.
+{%- endcomment -%}
+{%- assign what = include.what | default: "Prices" -%}
+{%- assign note = include.note | default: "They can change, so check the provider's own page before you buy." -%}
+<p class="price-date"><strong>{{ what | smartify }} on {{ page.prices_checked | date: "%-d %B %Y" }}.</strong> {{ note | smartify }}</p>

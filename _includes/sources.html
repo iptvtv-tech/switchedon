@@ -1,0 +1,10 @@
+{%- comment -%}Sources list from front matter: title, url, checked. Plain links only: never affiliate or tracked.{%- endcomment -%}
+{% if page.sources %}
+<section class="sources" aria-labelledby="sources-title">
+  <h2 class="t" id="sources-title">Sources</h2>
+  <ol>
+    {% for s in page.sources %}<li><a href="{{ s.url }}">{{ s.title }}</a>{% if s.checked %} <span>&middot; checked {{ s.checked | date: "%-d %b %Y" }}</span>{% endif %}</li>
+    {% endfor %}
+  </ol>
+</section>
+{% endif %}

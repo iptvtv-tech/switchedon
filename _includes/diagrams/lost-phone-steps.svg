@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 847" aria-hidden="true" focusable="false"><defs><marker id="dg-arrow-lostphone" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#5B6470"/></marker></defs><line x1="17" y1="31" x2="17" y2="705" stroke="#7C8682" stroke-width="2"/>
+<circle cx="17" cy="31" r="14" fill="#0E7C5A"/>
+<text x="17" y="36" font-family="'Space Grotesk',system-ui,sans-serif" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle">1</text>
+<rect x="42" y="1" width="317" height="100" rx="12" fill="#FFFFFF" stroke="#7C8682" stroke-width="1.5"/>
+<rect x="56" y="14" width="148" height="20" rx="10" fill="#E7F2EF" stroke="#0E7C5A" stroke-width="1"/>
+<text x="130.0" y="28" font-family="'Inter',system-ui,sans-serif" font-size="11" font-weight="700" fill="#0A5C43" text-anchor="middle" letter-spacing="0.06em">FIND MY / FIND HUB</text>
+<text x="56" y="56" font-family="'Space Grotesk',system-ui,sans-serif" font-size="15.5" font-weight="700" fill="#14181F">Find it and lock it</text>
+<text x="56" y="77" font-family="'Inter',system-ui,sans-serif" font-size="13" font-weight="400" fill="#14181F">Play a sound or mark it as lost. It only</text>
+<text x="56" y="94" font-family="'Inter',system-ui,sans-serif" font-size="13" font-weight="400" fill="#14181F">works if it was on before you lost it.</text>
+<circle cx="17" cy="145" r="14" fill="#0E7C5A"/>
+<text x="17" y="150" font-family="'Space Grotesk',system-ui,sans-serif" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle">2</text>
+<rect x="42" y="115" width="317" height="100" rx="12" fill="#FFFFFF" stroke="#7C8682" stroke-width="1.5"/>
+<rect x="56" y="128" width="122" height="20" rx="10" fill="#0E7C5A" stroke="#0E7C5A" stroke-width="1"/>
+<text x="117.0" y="142" font-family="'Inter',system-ui,sans-serif" font-size="11" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="0.06em">YOUR NETWORK</text>
+<text x="56" y="170" font-family="'Space Grotesk',system-ui,sans-serif" font-size="15.5" font-weight="700" fill="#14181F">Call your network straight away</text>
+<text x="56" y="191" font-family="'Inter',system-ui,sans-serif" font-size="13" font-weight="400" fill="#14181F">It blocks your SIM. Thieves can run up big</text>
+<text x="56" y="208" font-family="'Inter',system-ui,sans-serif" font-size="13" font-weight="400" fill="#14181F">bills, and you may have to pay them.</text>
+<circle cx="17" cy="259" r="14" fill="#0E7C5A"/>
+<text x="17" y="264" font-family="'Space Grotesk',system-ui,sans-serif" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle">3</text>
+<rect x="42" y="229" width="317" height="100" rx="12" fill="#FFFFFF" stroke="#7C8682" stroke-width="1.5"/>
+<rect x="56" y="242" width="122" height="20" rx="10" fill="#0E7C5A" stroke="#0E7C5A" stroke-width="1"/>
+<text x="117.0" y="256" font-family="'Inter',system-ui,sans-serif" font-size="11" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="0.06em">YOUR NETWORK</text>
+<text x="56" y="284" font-family="'Space Grotesk',system-ui,sans-serif" font-size="15.5" font-weight="700" fill="#14181F">Give it your IMEI</text>
+<text x="56" y="305" font-family="'Inter',system-ui,sans-serif" font-size="13" font-weight="400" fill="#14181F">With this 15-digit number, your network</text>
+<text x="56" y="322" font-family="'Inter',system-ui,sans-serif" font-size="13" font-weight="400" fill="#14181F">can bar the phone on every Irish network.</text>
+<circle cx="17" cy="373" r="14" fill="#0E7C5A"/>
+<text x="17" y="378" font-family="'Space Grotesk',system-ui,sans-serif" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle">4</text>
+<rect x="42" y="343" width="317" height="204" rx="12" fill="#FFFFFF" stroke="#7C8682" stroke-width="1.5"/>
+<rect x="56" y="356" width="68" height="20" rx="10" fill="#FFFFFF" stroke="#7C8682" stroke-width="1"/>
+<text x="90.0" y="370" font-family="'Inter',system-ui,sans-serif" font-size="11" font-weight="700" fill="#5B6470" text-anchor="middle" letter-spacing="0.06em">GARDAÍ</text>
+<text x="56" y="398" font-family="'Space Grotesk',system-ui,sans-serif" font-size="15.5" font-weight="700" fill="#14181F">Report it to the Gardaí</text>
+<rect x="56" y="413" width="289" height="48" rx="10" fill="#F3F5F4" stroke="#0A5C43" stroke-width="1.5"/>
+<text x="68" y="433" font-family="'Inter',system-ui,sans-serif" font-size="12.5" font-weight="700" fill="#0A5C43">Stolen, with no force or threats?</text>
+<text x="68" y="451" font-family="'Inter',system-ui,sans-serif" font-size="12.5" font-weight="400" fill="#14181F">Use the Garda Online Crime Declaration.</text>
+<rect x="56" y="469" width="289" height="64" rx="10" fill="#F3F5F4" stroke="#0A5C43" stroke-width="1.5"/>
+<text x="68" y="489" font-family="'Inter',system-ui,sans-serif" font-size="12.5" font-weight="700" fill="#0A5C43">Force or threats, a burglary or violence?</text>
+<text x="68" y="507" font-family="'Inter',system-ui,sans-serif" font-size="12.5" font-weight="400" fill="#14181F">Go to your local Garda station, or call</text>
+<text x="68" y="523" font-family="'Inter',system-ui,sans-serif" font-size="12.5" font-weight="400" fill="#14181F">999 or 112 in an emergency.</text>
+<circle cx="17" cy="591" r="14" fill="#0E7C5A"/>
+<text x="17" y="596" font-family="'Space Grotesk',system-ui,sans-serif" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle">5</text>
+<rect x="42" y="561" width="317" height="100" rx="12" fill="#FFFFFF" stroke="#7C8682" stroke-width="1.5"/>
+<rect x="56" y="574" width="148" height="20" rx="10" fill="#E7F2EF" stroke="#0E7C5A" stroke-width="1"/>
+<text x="130.0" y="588" font-family="'Inter',system-ui,sans-serif" font-size="11" font-weight="700" fill="#0A5C43" text-anchor="middle" letter-spacing="0.06em">FIND MY / FIND HUB</text>
+<text x="56" y="616" font-family="'Space Grotesk',system-ui,sans-serif" font-size="15.5" font-weight="700" fill="#14181F">Erase it if it’s gone for good</text>
+<text x="56" y="637" font-family="'Inter',system-ui,sans-serif" font-size="13" font-weight="400" fill="#14181F">A last resort: it can’t be undone. Keep an</text>
+<text x="56" y="654" font-family="'Inter',system-ui,sans-serif" font-size="13" font-weight="400" fill="#14181F">iPhone in Find My so Activation Lock stays.</text>
+<circle cx="17" cy="705" r="14" fill="#0E7C5A"/>
+<text x="17" y="710" font-family="'Space Grotesk',system-ui,sans-serif" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle">6</text>
+<rect x="42" y="675" width="317" height="100" rx="12" fill="#FFFFFF" stroke="#7C8682" stroke-width="1.5"/>
+<rect x="56" y="688" width="40" height="20" rx="10" fill="#F3F5F4" stroke="#7C8682" stroke-width="1"/>
+<text x="76.0" y="702" font-family="'Inter',system-ui,sans-serif" font-size="11" font-weight="700" fill="#14181F" text-anchor="middle" letter-spacing="0.06em">YOU</text>
+<text x="56" y="730" font-family="'Space Grotesk',system-ui,sans-serif" font-size="15.5" font-weight="700" fill="#14181F">Protect your accounts</text>
+<text x="56" y="751" font-family="'Inter',system-ui,sans-serif" font-size="13" font-weight="400" fill="#14181F">Check your Apple or Google Account, and</text>
+<text x="56" y="768" font-family="'Inter',system-ui,sans-serif" font-size="13" font-weight="400" fill="#14181F">never share a passcode or verification code.</text>
+<rect x="1" y="789" width="358" height="56" rx="12" fill="#E7F2EF" stroke="#0E7C5A" stroke-width="1.5"/>
+<text x="180" y="813" font-family="'Inter',system-ui,sans-serif" font-size="13.5" font-weight="600" fill="#0A5C43" text-anchor="middle">Before it happens: dial *#06# and note your</text>
+<text x="180" y="831" font-family="'Inter',system-ui,sans-serif" font-size="13.5" font-weight="600" fill="#0A5C43" text-anchor="middle">IMEI, and check Find My or Find Hub is on.</text></svg>

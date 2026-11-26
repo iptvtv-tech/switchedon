@@ -1,0 +1,31 @@
+# Products shown in buying guides. A product appears on the site ONLY through
+# _includes/product-card.html (one card) or _includes/product-cards.html (a guide's picks).
+# Never paste a shop link straight into a guide.
+#
+# paid: false  -> plain link to an Irish maker or retailer page, no "Ad" label.
+# paid: true   -> only once John Paul has joined that programme (4-6 weeks after launch).
+#                 The card then shows "Ad", says "(paid link)" and uses rel="sponsored nofollow",
+#                 and the guide must set affiliate: true so the Ad box appears at the top.
+# Never add a price or a shop's product image here.
+
+lenovo-ideapad-slim-5-14:
+  name: "Lenovo IdeaPad Slim 5 (14IRH10)"
+  kind: "Windows laptop"
+  why: "Meets UCC's spec for general coursework and Trinity engineering's memory, storage, screen and USB-A requirements."
+  note: "Engineering students: check the battery lasts your day; Euronics' page doesn't give hours."
+  specs: "Intel Core i7-13620H, 16GB, 512GB SSD, 14-inch 1920x1200, two USB-A ports, 1.47kg"
+  where: "Euronics Ireland"
+  url: "https://euronics.ie/products/lenovo-ideapad-slim-5-14irh10-intel-core-i7-13620h-16gb-ram-512gb-ssd-14-wuxga-83hr00bguk-lips5"
+  paid: false
+  checked: 2026-11-23
+
+macbook-air-13-m5:
+  name: "MacBook Air 13-inch (M5)"
+  kind: "Mac"
+  why: "Meets the memory, storage and screen minimums, with up to 15 hours' web browsing on Apple's figures."
+  note: "Not for engineering or UCD's business schools, which need Windows for some software."
+  specs: "Apple M5, 16GB, 512GB SSD, 13.6-inch 2560x1664, 1.23kg"
+  where: "Apple Ireland"
+  url: "https://www.apple.com/ie/macbook-air/specs/"
+  paid: false
+  checked: 2026-11-23

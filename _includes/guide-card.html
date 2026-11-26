@@ -1,0 +1,8 @@
+{%- assign gc_topic = site.data.topics | where: "slug", include.guide.topic | first -%}
+<article class="gcard">
+  <div class="top"><span class="tile sm">{% include icon.html name=gc_topic.icon %}</span><span class="tag {% if include.guide.format == 'quick-answer' %}tag-quick{% else %}tag-guide{% endif %}">{% if include.guide.format == 'quick-answer' %}Quick answer{% elsif include.guide.format == 'buying-guide' %}Buying guide{% else %}Guide{% endif %}</span></div>
+  {% if include.show_topic %}<p class="eyebrow">{{ gc_topic.name }}</p>{% endif %}
+  <h3><a href="{{ include.guide.url | relative_url }}">{{ include.guide.title }}</a></h3>
+  <p>{{ include.guide.summary }}</p>
+  <div class="foot"><span>Checked {{ include.guide.last_checked | date: "%-d %b %Y" }}</span></div>
+</article>

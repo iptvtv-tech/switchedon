@@ -1,0 +1,13 @@
+{%- comment -%}
+  Related guides: up to three hand-picked next reads, listed by address in the guide's related: front matter.
+  Guides only (never On Air Ireland: sister-site links stay in the text). No list, no box.
+{%- endcomment -%}
+{%- if page.related and page.related.size > 0 %}
+<nav class="related" aria-labelledby="related-title">
+  <h2 class="t" id="related-title">Related guides</h2>
+  <ul>
+    {%- for u in page.related limit: 3 %}{% assign g = site.guides | where: "url", u | first %}{% if g %}
+    <li><a href="{{ g.url | relative_url }}">{{ g.title }}</a></li>{% endif %}{% endfor %}
+  </ul>
+</nav>
+{%- endif %}

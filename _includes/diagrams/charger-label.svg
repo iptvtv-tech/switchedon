@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 186" aria-hidden="true" focusable="false"><defs><marker id="dg-arrow-charger-label" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#5B6470"/></marker></defs><rect x="41.9" y="2.0" width="7.5" height="27.7" rx="0.0" fill="none" stroke="#14181F" stroke-width="3.5"/>
+<rect x="79.3" y="2.0" width="7.5" height="27.7" rx="0.0" fill="none" stroke="#14181F" stroke-width="3.5"/>
+<rect x="27.4" y="29.7" width="74.4" height="28.2" rx="0.0" fill="none" stroke="#14181F" stroke-width="3.5"/>
+<rect x="8.9" y="57.9" width="111.8" height="111.8" rx="3.5" fill="none" stroke="#14181F" stroke-width="3.5"/>
+<text x="64.8" y="97.88" font-family="'Inter',system-ui,sans-serif" font-size="21" font-weight="700" fill="#14181F" text-anchor="middle">XX – YY</text>
+<text x="64.8" y="125.88" font-family="'Inter',system-ui,sans-serif" font-size="21" font-weight="700" fill="#14181F" text-anchor="middle">W</text>
+<text x="64.8" y="151.88" font-family="'Inter',system-ui,sans-serif" font-size="14.5" font-weight="700" fill="#14181F" text-anchor="middle">USB PD</text>
+<text x="160" y="22" font-family="'Inter',system-ui,sans-serif" font-size="13.5" font-weight="700" fill="#0A5C43">XX</text>
+<text x="160" y="40" font-family="'Inter',system-ui,sans-serif" font-size="13" font-weight="400" fill="#14181F">the least power the laptop</text>
+<text x="160" y="57" font-family="'Inter',system-ui,sans-serif" font-size="13" font-weight="400" fill="#14181F">needs to charge, in watts</text>
+<text x="160" y="82" font-family="'Inter',system-ui,sans-serif" font-size="13.5" font-weight="700" fill="#0A5C43">YY</text>
+<text x="160" y="100" font-family="'Inter',system-ui,sans-serif" font-size="13" font-weight="400" fill="#14181F">the power it needs to</text>
+<text x="160" y="117" font-family="'Inter',system-ui,sans-serif" font-size="13" font-weight="400" fill="#14181F">charge at full speed</text>
+<text x="160" y="142" font-family="'Inter',system-ui,sans-serif" font-size="13.5" font-weight="700" fill="#0A5C43">USB PD</text>
+<text x="160" y="160" font-family="'Inter',system-ui,sans-serif" font-size="13" font-weight="400" fill="#14181F">shown if it supports</text>
+<text x="160" y="177" font-family="'Inter',system-ui,sans-serif" font-size="13" font-weight="400" fill="#14181F">USB Power Delivery</text></svg>

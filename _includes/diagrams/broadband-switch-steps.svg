@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 515" aria-hidden="true" focusable="false"><defs><marker id="dg-arrow-switch" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#5B6470"/></marker></defs><line x1="17" y1="31" x2="17" y2="373" stroke="#7C8682" stroke-width="2"/>
+<circle cx="17" cy="31" r="14" fill="#0E7C5A"/>
+<text x="17" y="36" font-family="'Space Grotesk',system-ui,sans-serif" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle">1</text>
+<rect x="42" y="1" width="317" height="100" rx="12" fill="#FFFFFF" stroke="#7C8682" stroke-width="1.5"/>
+<rect x="56" y="14" width="40" height="20" rx="10" fill="#F3F5F4" stroke="#7C8682" stroke-width="1"/>
+<text x="76.0" y="28" font-family="'Inter',system-ui,sans-serif" font-size="11" font-weight="700" fill="#14181F" text-anchor="middle" letter-spacing="0.06em">YOU</text>
+<text x="56" y="56" font-family="'Space Grotesk',system-ui,sans-serif" font-size="15.5" font-weight="700" fill="#14181F">Order and ask to switch</text>
+<text x="56" y="77" font-family="'Inter',system-ui,sans-serif" font-size="13" font-weight="400" fill="#14181F">Tell the new provider you want to switch.</text>
+<text x="56" y="94" font-family="'Inter',system-ui,sans-serif" font-size="13" font-weight="400" fill="#14181F">Have your account number and UAN ready.</text>
+<circle cx="17" cy="145" r="14" fill="#0E7C5A"/>
+<text x="17" y="150" font-family="'Space Grotesk',system-ui,sans-serif" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle">2</text>
+<rect x="42" y="115" width="317" height="100" rx="12" fill="#FFFFFF" stroke="#7C8682" stroke-width="1.5"/>
+<rect x="56" y="128" width="114" height="20" rx="10" fill="#0E7C5A" stroke="#0E7C5A" stroke-width="1"/>
+<text x="113.0" y="142" font-family="'Inter',system-ui,sans-serif" font-size="11" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="0.06em">NEW PROVIDER</text>
+<text x="56" y="170" font-family="'Space Grotesk',system-ui,sans-serif" font-size="15.5" font-weight="700" fill="#14181F">Keeps you updated</text>
+<text x="56" y="191" font-family="'Inter',system-ui,sans-serif" font-size="13" font-weight="400" fill="#14181F">You can agree a date for the switch. You</text>
+<text x="56" y="208" font-family="'Inter',system-ui,sans-serif" font-size="13" font-weight="400" fill="#14181F">don’t need to tell your old provider.</text>
+<circle cx="17" cy="259" r="14" fill="#0E7C5A"/>
+<text x="17" y="264" font-family="'Space Grotesk',system-ui,sans-serif" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle">3</text>
+<rect x="42" y="229" width="317" height="100" rx="12" fill="#FFFFFF" stroke="#7C8682" stroke-width="1.5"/>
+<rect x="56" y="242" width="114" height="20" rx="10" fill="#0E7C5A" stroke="#0E7C5A" stroke-width="1"/>
+<text x="113.0" y="256" font-family="'Inter',system-ui,sans-serif" font-size="11" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="0.06em">NEW PROVIDER</text>
+<text x="56" y="284" font-family="'Space Grotesk',system-ui,sans-serif" font-size="15.5" font-weight="700" fill="#14181F">Switch day</text>
+<text x="56" y="305" font-family="'Inter',system-ui,sans-serif" font-size="13" font-weight="400" fill="#14181F">It checks your new service works, then</text>
+<text x="56" y="322" font-family="'Inter',system-ui,sans-serif" font-size="13" font-weight="400" fill="#14181F">tells your old provider to stop the old one.</text>
+<circle cx="17" cy="373" r="14" fill="#0E7C5A"/>
+<text x="17" y="378" font-family="'Space Grotesk',system-ui,sans-serif" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle">4</text>
+<rect x="42" y="343" width="317" height="100" rx="12" fill="#FFFFFF" stroke="#7C8682" stroke-width="1.5"/>
+<rect x="56" y="356" width="114" height="20" rx="10" fill="#FFFFFF" stroke="#7C8682" stroke-width="1"/>
+<text x="113.0" y="370" font-family="'Inter',system-ui,sans-serif" font-size="11" font-weight="700" fill="#5B6470" text-anchor="middle" letter-spacing="0.06em">OLD PROVIDER</text>
+<text x="56" y="398" font-family="'Space Grotesk',system-ui,sans-serif" font-size="15.5" font-weight="700" fill="#14181F">Your old contract ends</text>
+<text x="56" y="419" font-family="'Inter',system-ui,sans-serif" font-size="13" font-weight="400" fill="#14181F">It ends when the new service starts. You get</text>
+<text x="56" y="436" font-family="'Inter',system-ui,sans-serif" font-size="13" font-weight="400" fill="#14181F">a final bill, and overpayments are refunded.</text>
+<rect x="1" y="457" width="358" height="56" rx="12" fill="#E7F2EF" stroke="#0E7C5A" stroke-width="1.5"/>
+<text x="180" y="481" font-family="'Inter',system-ui,sans-serif" font-size="13.5" font-weight="600" fill="#0A5C43" text-anchor="middle">You shouldn’t be without broadband for</text>
+<text x="180" y="499" font-family="'Inter',system-ui,sans-serif" font-size="13.5" font-weight="600" fill="#0A5C43" text-anchor="middle">more than one working day.</text></svg>

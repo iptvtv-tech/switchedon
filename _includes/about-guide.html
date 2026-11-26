@@ -1,0 +1,10 @@
+{%- assign next_check = page.last_checked | date: "%s" | plus: 7776000 -%}
+<div class="aboutbox">
+  <p class="t">About this guide</p>
+  <ul>
+    <li>{% include icon.html name="shield" %}<span>Researched, not tested, from {{ page.sources | size }} Irish and EU sources</span></li>
+    {% if page.last_checked %}<li>{% include icon.html name="refresh" %}<span>Last checked {{ page.last_checked | date: "%-d %B %Y" }}; next check by {{ next_check | date: "%B %Y" }}</span></li>{% endif %}
+    <li>{% include icon.html name="mail" %}<span>Corrections: {{ site.email }}</span></li>
+  </ul>
+  <a href="{{ '/how-we-check/' | relative_url }}">How we check guides</a>
+</div>

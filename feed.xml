@@ -1,0 +1,41 @@
+---
+layout: null
+sitemap: false
+permalink: /feed.xml
+---
+{%- comment -%}
+  Atom feed of the guides, for feed readers. Hand-written (no plugin) so it lists guides only.
+  Each entry: the guide's title, its address and its description (the approved summary), never the whole guide.
+  updated = the guide's published date, or its newest changes: entry if that's later, so a date-only re-check
+  doesn't show every guide as new again. The head link and the footer "RSS feed" link appear only at launch.
+{%- endcomment -%}
+{%- assign guides = site.guides | sort: "date" | reverse -%}
+{%- assign feed_updated = "" -%}
+{%- for g in guides -%}
+  {%- assign upd = g.date | date: "%Y-%m-%d" -%}
+  {%- if g.changes -%}{%- assign newest = g.changes | sort: "date" | reverse | first -%}{%- assign nd = newest.date | date: "%Y-%m-%d" -%}{%- if nd > upd -%}{%- assign upd = nd -%}{%- endif -%}{%- endif -%}
+  {%- if upd > feed_updated -%}{%- assign feed_updated = upd -%}{%- endif -%}
+{%- endfor -%}
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-IE">
+  <title>{{ site.title | xml_escape }}</title>
+  <subtitle>Tech help for Irish homes, in plain English.</subtitle>
+  <link href="{{ '/feed.xml' | absolute_url }}" rel="self" type="application/atom+xml"/>
+  <link href="{{ '/' | absolute_url }}" rel="alternate" type="text/html"/>
+  <id>{{ '/' | absolute_url }}</id>
+  <updated>{{ feed_updated | date_to_xmlschema }}</updated>
+  <author><name>{{ site.title | xml_escape }}</name><uri>{{ '/' | absolute_url }}</uri></author>
+  <icon>{{ '/assets/icons/icon-512.png' | absolute_url }}</icon>
+{%- for g in guides %}
+  {%- assign upd = g.date | date: "%Y-%m-%d" -%}
+  {%- if g.changes -%}{%- assign newest = g.changes | sort: "date" | reverse | first -%}{%- assign nd = newest.date | date: "%Y-%m-%d" -%}{%- if nd > upd -%}{%- assign upd = nd -%}{%- endif -%}{%- endif %}
+  <entry>
+    <title>{{ g.title | xml_escape }}</title>
+    <link href="{{ g.url | absolute_url }}" rel="alternate" type="text/html"/>
+    <id>{{ g.url | absolute_url }}</id>
+    <published>{{ g.date | date: "%Y-%m-%d" | date_to_xmlschema }}</published>
+    <updated>{{ upd | date_to_xmlschema }}</updated>
+    <summary>{{ g.description | xml_escape }}</summary>
+  </entry>
+{%- endfor %}
+</feed>

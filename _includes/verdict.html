@@ -1,0 +1,8 @@
+{%- comment -%}Quick-answer verdict box. Reads verdict (answer + rows of label/value) from the guide's front matter. Use once, after the answer.{%- endcomment -%}
+{%- if page.verdict -%}
+<div class="verdict">
+<div class="vh">{% include icon.html name="mark" ring="#FFFFFF" width="2.4" %}<div><p class="k">Quick answer</p><p class="v">{{ page.verdict.answer | smartify }}</p></div></div>
+<dl>{%- for r in page.verdict.rows -%}<div class="r"><dt>{{ r.label | smartify }}</dt><dd>{{ r.value | smartify }}</dd></div>{%- endfor -%}</dl>
+<p class="vf">Checked {{ page.last_checked | date: "%-d %B %Y" }} against {{ page.sources | size }} sources, listed at the end</p>
+</div>
+{%- endif -%}

@@ -1,0 +1,12 @@
+<!doctype html>
+<html lang="{{ site.lang }}">
+<head>
+{% include head.html %}
+</head>
+<body>
+{% include header.html %}
+{{ content }}
+{% include footer.html %}
+{% if site.goatcounter and site.preview_mode != true %}<script data-goatcounter="https://{{ site.goatcounter }}.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+{% endif %}</body>
+</html>

@@ -1,0 +1,19 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+{% if site.preview_mode %}<meta name="robots" content="noindex, nofollow">
+{% elsif page.noindex %}<meta name="robots" content="noindex, follow">
+{% endif %}{% seo %}
+{% if page.url == "/" %}<script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","name":{{ site.title | jsonify }},"url":{{ '/' | absolute_url | jsonify }},"logo":{{ '/assets/icons/icon-512.png' | absolute_url | jsonify }},"email":{{ site.email | jsonify }}{% if site.whatsapp_channel %},"sameAs":[{{ site.whatsapp_channel | jsonify }}]{% endif %}}</script>
+{% endif %}<link rel="icon" href="{{ '/assets/icons/favicon.svg' | relative_url }}" type="image/svg+xml">
+<link rel="icon" href="{{ '/assets/icons/favicon.ico' | relative_url }}" sizes="16x16 32x32 48x48">
+<link rel="apple-touch-icon" href="{{ '/assets/icons/apple-touch-icon.png' | relative_url }}">
+<link rel="manifest" href="{{ '/site.webmanifest' | relative_url }}">
+{% if site.preview_mode != true %}<link rel="alternate" type="application/atom+xml" title="Switched On: new and updated guides" href="{{ '/feed.xml' | relative_url }}">
+{% endif %}
+<meta name="theme-color" content="#0E7C5A">
+{% if site.preview_google_fonts %}<!-- Preview only: fonts from Google. At launch they are self-hosted (preview_google_fonts: false). -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&amp;family=Space+Grotesk:wght@500;700&amp;display=swap">
+{% else %}<link rel="stylesheet" href="{{ '/assets/css/fonts.css' | relative_url }}">
+{% endif %}<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
