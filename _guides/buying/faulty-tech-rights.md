@@ -1,6 +1,6 @@
 ---
 title: "Your rights when tech is faulty in Ireland"
-description: "A faulty phone, laptop or TV? You can get a full refund within 30 days, then a repair or replacement, for up to six years. Here's how to claim."
+description: "A faulty phone, laptop or TV? You can get a full refund within 30 days, then a repair or replacement, for up to six years. Here's how to claim. TEST ONLY: this line makes the description too long, so the checks must fail."
 summary: "Refunds in the first 30 days, repairs and replacements after that, and what to do if the shop says no."
 topic: buying
 format: guide
