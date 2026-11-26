@@ -5,9 +5,9 @@ summary: "A SIM router instead of a cable: how 5G home broadband works, ComReg's
 topic: broadband
 format: guide
 image: /assets/social/5g-home-broadband.png
-last_checked: 2026-11-25
-last_modified_at: 2026-11-25   # keep the same as last_checked: the "updated" date Google and the sitemap see
-prices_checked: 2026-11-25   # the date the prices below were read; price-date.html shows it
+last_checked: 2026-11-26
+last_modified_at: 2026-11-26   # keep the same as last_checked: the "updated" date Google and the sitemap see
+prices_checked: 2026-11-26   # the date the prices below were read; price-date.html shows it
 approved: 2026-11-26   # approved by John Paul ("29 approved"); prices are offers: re-check all three providers the week before it's published
 key_points:
   - "A router with a SIM card picks up the 5G mobile signal, so there's no phone line or cable, and usually no engineer visit."
@@ -21,22 +21,22 @@ related:   # up to three next reads, by guide address; related.html shows them a
 sources:
   - title: "ComReg: Types of broadband technology (8 May 2026)"
     url: "https://www.comreg.ie/advice-information/broadband-and-home-phone/types-of-broadband-technology/"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "ComReg: Check what broadband is available at your home (29 Aug 2025)"
     url: "https://www.comreg.ie/check-what-broadband-is-available-at-your-home/"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "Vodafone Ireland: Mobile broadband"
     url: "https://www.vodafone.ie/mobile/mobile-broadband"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "Three Ireland: Broadband"
     url: "https://www.three.ie/broadband.html"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "Three Ireland: Existing customer broadband offer"
     url: "https://www.three.ie/broadband/three-customer-exclusive.html"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "eir: 5G mobile broadband"
     url: "https://www.eir.ie/shop/mobile/broadband"
-    checked: 2026-11-25
+    checked: 2026-11-26
 ---
 
 5G home broadband connects your home to the internet through a mobile network instead of a cable: a router with a SIM card picks up the 5G signal and shares it over Wi-Fi. Vodafone, Three and eir all sell it with unlimited data, but ComReg says mobile broadband won't normally be as fast or as reliable as fixed broadband, so check what fibre you can get, and the 5G signal at your address, before you sign up.

@@ -6,8 +6,8 @@ topic: phones
 group: "Scams and security"   # the heading it sits under on the Phones page (_data/topics.yml groups)
 format: quick-answer
 image: /assets/social/likely-scam-texts.png
-last_checked: 2026-11-24
-last_modified_at: 2026-11-24   # keep the same as last_checked: the "updated" date Google and the sitemap see
+last_checked: 2026-11-26
+last_modified_at: 2026-11-26   # keep the same as last_checked: the "updated" date Google and the sitemap see
 approved: 2026-11-24   # approved by John Paul; re-check every source in the week before launch
 verdict:
   answer: "A warning, not proof"
@@ -24,21 +24,21 @@ related:   # up to three next reads, by guide address; related.html shows them a
   - /phones/scam-calls/
   - /phones/lost-or-stolen-phone/
 sources:
-  - title: "ComReg: SMS Sender ID Registry (19 Nov 2026)"
+  - title: "ComReg: SMS Sender ID Registry (26 Nov 2026)"
     url: "https://www.comreg.ie/senderid"
-    checked: 2026-11-24
+    checked: 2026-11-26
   - title: "ComReg: Unregistered Sender IDs to be modified to 'Likely Scam' from 3 July 2025 (1 Jul 2025)"
     url: "https://www.comreg.ie/comreg-urges-organisations-to-register-sms-sender-ids-now-unregistered-sender-ids-to-be-modified-to-likely-scam-from-3-july-2025/"
-    checked: 2026-11-24
+    checked: 2026-11-26
   - title: "ComReg: Scam calls and texts (1 Jul 2026)"
     url: "https://www.comreg.ie/advice-information/scam-calls/"
-    checked: 2026-11-24
+    checked: 2026-11-26
   - title: "ComReg: Be vigilant against scams this Christmas (18 Dec 2025)"
     url: "https://www.comreg.ie/be-vigilant-against-scams-this-christmas/"
-    checked: 2026-11-24
+    checked: 2026-11-26
   - title: "ComReg: Scam text warning, messages pretending to be from a bank (14 Oct 2022)"
     url: "https://www.comreg.ie/scam-text-warning-messages-pretending-to-be-from-a-bank-or-being-followed-up-by-a-call/"
-    checked: 2026-11-24
+    checked: 2026-11-26
 ---
 
 'Likely Scam' is a warning label, not proof that a text is a scam. Since 3 July 2025, a text sent under a name that isn't on ComReg's SMS Sender ID Registry shows 'Likely Scam' as the sender, so treat it with care and don't click any link or call any number in it.
@@ -84,4 +84,4 @@ The register only covers Sender IDs, the names with letters in them. Scam texts 
 
 ## Will these texts be blocked?
 
-Not yet. ComReg planned to block texts from unregistered Sender IDs from 3 October 2025, but put that off until the remaining technical problems are fixed. Until then, the 'Likely Scam' label stays. ComReg's page, updated on 19 November 2026, still says this.
+Not yet. ComReg planned to block texts from unregistered Sender IDs from 3 October 2025, but put that off until the remaining technical problems are fixed. Until then, the 'Likely Scam' label stays. ComReg's page, updated on 26 November 2026, still says this.

@@ -5,8 +5,8 @@ summary: "How to check what reaches your home, full fibre versus part fibre, the
 topic: broadband
 format: guide
 image: /assets/social/fibre-at-my-address.png
-last_checked: 2026-11-23
-last_modified_at: 2026-11-23   # keep the same as last_checked: the "updated" date Google and the sitemap see
+last_checked: 2026-11-26
+last_modified_at: 2026-11-26   # keep the same as last_checked: the "updated" date Google and the sitemap see
 approved: 2026-11-23   # approved by John Paul; re-check every source in the week before launch
 key_points:
   - "ComReg's Broadband Checker shows which networks reach your Eircode, what type they are and how fast."
@@ -20,25 +20,25 @@ related:   # up to three next reads, by guide address; related.html shows them a
 sources:
   - title: "ComReg: Check what broadband is available at your home (29 Aug 2025)"
     url: "https://www.comreg.ie/check-what-broadband-is-available-at-your-home/"
-    checked: 2026-11-23
+    checked: 2026-11-26
   - title: "ComReg: Broadband Checker launch (20 Jun 2024)"
     url: "https://comreg.ie/?p=129893"
-    checked: 2026-11-23
+    checked: 2026-11-26
   - title: "ComReg: Broadband Checker disclaimer"
     url: "https://www.comreg.ie/broadband-disclaimer/"
-    checked: 2026-11-23
+    checked: 2026-11-26
   - title: "ComReg: All About Broadband (2025)"
     url: "https://www.comreg.ie/media/2025/09/ComReg-All-About-Broadband-Brochure-A5-2025.pdf"
-    checked: 2026-11-23
+    checked: 2026-11-26
   - title: "ComReg: Getting a new broadband connection"
     url: "https://comreg.ie/advice-information/broadband-and-home-phone/upgrading-broadband-home-phone/getting-a-new-broadband-connection-tips-to-help"
-    checked: 2026-11-23
+    checked: 2026-11-26
   - title: "National Broadband Ireland: FAQs"
     url: "https://nbi.ie/faqs"
-    checked: 2026-11-23
+    checked: 2026-11-26
   - title: "National Broadband Ireland: Where to buy and customer contribution"
     url: "https://nbi.ie/where-can-i-buy-customer-contribution/"
-    checked: 2026-11-23
+    checked: 2026-11-26
 ---
 
 Enter your Eircode or address into ComReg's free Broadband Checker. It shows each fixed broadband network that's available or planned at that address, the type of broadband (for example, fibre) and its speed, and the providers that may sell it.

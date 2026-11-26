@@ -6,8 +6,8 @@ topic: buying
 format: guide
 popular: true
 image: /assets/social/faulty-tech-rights.png
-last_checked: 2026-11-23
-last_modified_at: 2026-11-23   # keep the same as last_checked: the "updated" date Google and the sitemap see
+last_checked: 2026-11-26
+last_modified_at: 2026-11-26   # keep the same as last_checked: the "updated" date Google and the sitemap see
 approved: 2026-11-23   # approved by John Paul; re-check every source in the week before launch
 key_points:
   - "Within 30 days, you can reject a faulty item for a full refund."
@@ -20,32 +20,29 @@ related:   # up to three next reads, by guide address; related.html shows them a
   - /buying/recycle-old-tech/
 sources:
   - title: "CCPC: Faulty goods"
-    url: "https://www.ccpc.ie/consumers/shopping/faulty-goods/"
-    checked: 2026-11-23
+    url: "https://www.ccpc.ie/consumer-advice/faulty-products-and-goods"
+    checked: 2026-11-26
   - title: "CCPC: Faulty goods FAQs"
     url: "https://www.ccpc.ie/consumer-advice/faulty-products-and-goods/faulty-goods-faqs"
-    checked: 2026-11-23
+    checked: 2026-11-26
   - title: "CCPC: Repairs and replacements"
     url: "https://ccpc.ie/consumer-advice/faulty-products-and-goods/repairs-and-replacements"
-    checked: 2026-11-23
-  - title: "CCPC: Short-term right to terminate"
-    url: "https://www.ccpc.ie/consumers/shopping/faulty-goods/short-term-right-to-terminate"
-    checked: 2026-11-23
+    checked: 2026-11-26
   - title: "CCPC: Guarantees and warranties"
-    url: "https://www.ccpc.ie/consumers/shopping/buying-goods/guarantees-and-warranties/"
-    checked: 2026-11-23
+    url: "https://www.ccpc.ie/consumer-advice/consumer-rights/buying-goods/guarantees-and-warranties"
+    checked: 2026-11-26
   - title: "CCPC: Buying in the EU"
     url: "https://www.ccpc.ie/consumer-advice/consumer-rights/buying-goods/buying-in-the-eu"
-    checked: 2026-11-23
+    checked: 2026-11-26
   - title: "CCPC: Buying outside the EU"
-    url: "https://www.ccpc.ie/consumers/shopping/buying-outside-the-eu/"
-    checked: 2026-11-23
+    url: "https://www.ccpc.ie/consumer-advice/consumer-rights/buying-goods/buying-outside-the-eu"
+    checked: 2026-11-26
   - title: "CCPC: Disputed card transactions (chargeback)"
-    url: "https://www.ccpc.ie/consumers/shopping/disputed-card-transactions-chargeback"
-    checked: 2026-11-23
+    url: "https://www.ccpc.ie/consumer-advice/consumer-rights/buying-goods/disputed-card-transactions-chargeback"
+    checked: 2026-11-26
   - title: "Courts Service: About small claims"
     url: "https://courts.ie/guides/about-small-claim"
-    checked: 2026-11-23
+    checked: 2026-11-26
 ---
 
 If a phone, laptop or other gadget turns out to be faulty within 30 days of getting it, you can hand it back for a full refund. After that, the seller has to repair or replace it, and give you a refund or money off if that doesn't work, for up to six years.
@@ -106,7 +103,7 @@ These rights cover faults, not damage. Problems caused by misuse, accidental dam
 3. **Keep proof of postage** if you send the item back, in case there's a dispute about when it arrived.
 4. **Paying in instalments?** You can hold back an amount that reflects the item's lower value until it's sorted, as long as you tell the seller.
 
-The CCPC's [faulty goods tool](https://www.ccpc.ie/consumers/shopping/faulty-goods/) walks you through your options for your own situation.
+The CCPC's [faulty goods tool](https://www.ccpc.ie/consumer-advice/faulty-products-and-goods) walks you through your options for your own situation.
 
 ## If the shop says no
 
@@ -122,4 +119,4 @@ Everything above applies when you buy from a business in Ireland. If you bought 
 
 If you buy from outside the EU, including the UK, the US and China, you have fewer protections and can't use the small claims procedure. Check where a seller is based before you buy: a .ie web address doesn't prove it's Irish. If a seller outside the EU won't help and you paid by card, you may be able to ask your bank for a chargeback; ask early, as card-scheme time limits are usually 90 to 120 days. Our guide to [buying tech from a UK shop]({{ '/buying/uk-shop-vat-customs/' | relative_url }}) covers what to check.
 
-*This guide is general information, not legal advice. For help with your own case, contact the [CCPC](https://www.ccpc.ie/consumers/).*
+*This guide is general information, not legal advice. For help with your own case, contact the [CCPC](https://www.ccpc.ie/).*

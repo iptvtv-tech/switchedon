@@ -6,8 +6,8 @@ topic: phones
 group: "Scams and security"   # the heading it sits under on the Phones page (_data/topics.yml groups)
 format: guide
 image: /assets/social/lost-or-stolen-phone.png
-last_checked: 2026-11-25
-last_modified_at: 2026-11-25   # keep the same as last_checked: the "updated" date Google and the sitemap see
+last_checked: 2026-11-26
+last_modified_at: 2026-11-26   # keep the same as last_checked: the "updated" date Google and the sitemap see
 approved: 2026-11-25   # approved by John Paul; re-check the networks' lost-phone pages the week before it's published
 key_points:
   - "Call your network straight away: thieves can run up big bills, and you may have to pay them."
@@ -21,40 +21,40 @@ related:   # up to three next reads, by guide address; related.html shows them a
 sources:
   - title: "An Garda Síochána: Burglary & theft (stolen mobile phones)"
     url: "https://www.garda.ie/en/crime/burglary-theft/"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "An Garda Síochána: Online Crime Reporting"
     url: "https://www.garda.ie/en/about-us/online-services/online-crime-reporting/"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "ComReg: Roaming (8 May 2026)"
     url: "https://www.comreg.ie/advice-information/roaming-2/"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "Vodafone Ireland: My phone has been lost or stolen, what should I do?"
     url: "https://n.vodafone.ie/support/mobile/repairs-replacement-insurance.html"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "Vodafone Ireland: Code of Practice"
     url: "https://www.vodafone.ie/support/code"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "eir: Mobile devices support (Lost/stolen)"
     url: "https://www.eir.ie/helpandsupport/mobile/devices/"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "Virgin Media Ireland: Ordering replacement equipment"
     url: "https://www.virginmedia.ie/customer-support/account-and-billing/your-account/your-bundle-and-equipment/ordering-replacement-equipment/"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "Virgin Media Ireland: Learn about My Virgin Media accounts"
     url: "https://www.virginmedia.ie/customer-support/account-and-billing/your-account/learn-about-myvirginnmedia-accounts/"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "Tesco Mobile Ireland: Lost or stolen phone, what to do?"
     url: "https://www.tescomobile.ie/help-centre/your-phone/lost-or-stolen-phone-what-to-do"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "Three Ireland: Roaming (customer care numbers)"
     url: "https://www.three.ie/roaming/"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "Apple Support (IE): How to find your lost iPhone or iPad (15 Sep 2026)"
     url: "https://support.apple.com/en-ie/101593"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "Google Android Help: Find, secure or erase a lost Android device"
     url: "https://support.google.com/android/answer/6160491?hl=en-IE"
-    checked: 2026-11-25
+    checked: 2026-11-26
 ---
 
 If your phone is lost or stolen, contact your mobile network straight away so it can block your SIM and, if you give it the phone's IMEI number, bar the phone from working on any mobile network in Ireland. Report it to the Gardaí as well.

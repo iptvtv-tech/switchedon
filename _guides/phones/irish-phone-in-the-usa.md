@@ -6,9 +6,9 @@ topic: phones
 group: "Travelling"   # the heading it sits under on the Phones page (_data/topics.yml groups)
 format: quick-answer
 image: /assets/social/irish-phone-in-the-usa.png
-last_checked: 2026-11-25
-last_modified_at: 2026-11-25   # keep the same as last_checked: the "updated" date Google and the sitemap see
-prices_checked: 2026-11-25   # the date the prices below were read; price-date.html shows it
+last_checked: 2026-11-26
+last_modified_at: 2026-11-26   # keep the same as last_checked: the "updated" date Google and the sitemap see
+prices_checked: 2026-11-26   # the date the prices below were read; price-date.html shows it
 approved: 2026-11-25   # approved by John Paul; re-check every network's page, price guide and terms the week before it's published (daily prices, pass allowances and the US 2G closures change)
 verdict:
   answer: "Yes, but it costs extra"
@@ -28,43 +28,43 @@ related:   # up to three next reads, by guide address; related.html shows them a
 sources:
   - title: "ComReg: Using your mobile outside the EU (8 May 2026)"
     url: "https://www.comreg.ie/advice-information/roaming-2/using-your-mobile-outside-the-eu/"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "ComReg: Roaming (8 May 2026)"
     url: "https://www.comreg.ie/advice-information/roaming-2/"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "Vodafone Ireland: Roaming"
     url: "https://www.vodafone.ie/support/roaming"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "Three Ireland: Roaming rates and add-ons"
     url: "https://www.three.ie/roaming/"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "Three Ireland: Bill Pay price guide, April 2026 (PDF)"
     url: "https://www.three.ie/pdfs/legal/billpay-price-guide-p3-apr-2026.pdf"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "Three Ireland: Roaming pass terms, bill pay (PDF)"
     url: "https://www.three.ie/pdfs/legal/three-daily-roaming-pass-consumer-bill-pay.pdf"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "Three Ireland: 4G and WiFi Calling"
     url: "https://www.three.ie/support/4g-and-wi-fi-calling.html"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "eir: International roaming"
     url: "https://www.eir.ie/roaming/"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "eir: Bill pay roaming"
     url: "https://www.eir.ie/roaming/billpay/"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "eir: Prepay roaming"
     url: "https://www.eir.ie/roaming/prepay/"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "eir: WiFi Call terms and conditions (PDF)"
     url: "https://www.eir.ie/.content/pdf/terms/EirWiFiCallTermsandconditions.pdf"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "Vodafone Ireland: Next Generation Voice FAQs"
     url: "https://n.vodafone.ie/support/bill-pay-hub/bill-pay/wi-fi-calling.html"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "Three Ireland: Prepay price guide, December 2025 (PDF)"
     url: "https://www.three.ie/pdfs/legal/prepay-price-guide-p-dec-2025.pdf"
-    checked: 2026-11-25
+    checked: 2026-11-26
 ---
 
 Yes, but it costs extra, and for calls your phone needs to support 4G calling. The EU's 'Roam like at home' rules don't cover the USA, and the 3G networks there have closed.

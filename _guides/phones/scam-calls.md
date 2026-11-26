@@ -6,8 +6,8 @@ topic: phones
 group: "Scams and security"   # the heading it sits under on the Phones page (_data/topics.yml groups)
 format: guide
 image: /assets/social/scam-calls.png
-last_checked: 2026-11-25
-last_modified_at: 2026-11-25   # keep the same as last_checked: the "updated" date Google and the sitemap see
+last_checked: 2026-11-26
+last_modified_at: 2026-11-26   # keep the same as last_checked: the "updated" date Google and the sitemap see
 approved: 2026-11-25   # approved by John Paul; re-check ComReg's scam calls page and its latest scam-call update the week before it's published
 key_points:
   - "Hang up if a caller rushes or threatens you, then contact the organisation on a number you look up yourself."
@@ -20,19 +20,19 @@ related:   # up to three next reads, by guide address; related.html shows them a
 sources:
   - title: "ComReg: Scam Calls & Texts (1 Jul 2026)"
     url: "https://www.comreg.ie/advice-information/scam-calls/"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "ComReg 25/87: Scam Call Interventions Update (12 Dec 2025)"
     url: "https://www.comreg.ie/media/2025/12/ComReg2587.pdf"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "An Garda Síochána: Bank vishing calls, what can you do?"
     url: "https://www.garda.ie/en/about-us/our-departments/office-of-corporate-communications/news-media/vishing_ie.pdf"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "An Garda Síochána: Vishing, smishing and phishing fraud alert (4 Feb 2022)"
     url: "https://www.garda.ie/en/about-us/our-departments/office-of-corporate-communications/press-releases/2022/february/an-garda-siochana-vishing-smishing-and-phishing-fraud-alert-04-february-2022.html"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "An Garda Síochána: I've been caught out by an online scam. What should I do?"
     url: "https://www.garda.ie/en/crime/cyber-crime/i-ve-been-caught-out-by-an-online-scam-what-should-i-do-.html"
-    checked: 2026-11-25
+    checked: 2026-11-26
 ---
 
 If you're not sure a call is genuine, hang up and contact the organisation yourself, using a number from its official website, app or another source you trust, never one the caller gives you. ComReg says never to give personal details or follow a recorded message's instructions, and to ask your network to block a number that keeps calling.

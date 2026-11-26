@@ -5,8 +5,8 @@ summary: "Free security updates until October 2027, the free Windows 11 upgrade,
 topic: computers
 format: guide
 image: /assets/social/windows-10-end-of-support.png
-last_checked: 2026-11-23
-last_modified_at: 2026-11-23   # keep the same as last_checked: the "updated" date Google and the sitemap see
+last_checked: 2026-11-26
+last_modified_at: 2026-11-26   # keep the same as last_checked: the "updated" date Google and the sitemap see
 approved: 2026-11-23   # approved by John Paul; re-check every source in the week before launch
 key_points:
   - "Windows 10 PCs still work, but without security updates they're more vulnerable to viruses and malware."
@@ -20,25 +20,25 @@ related:   # up to three next reads, by guide address; related.html shows them a
 sources:
   - title: "Microsoft Ireland: End of support for Windows 10"
     url: "https://www.microsoft.com/en-ie/windows/end-of-support"
-    checked: 2026-11-23
+    checked: 2026-11-26
   - title: "Microsoft Ireland: Windows 10 Consumer Extended Security Updates"
     url: "https://www.microsoft.com/en-ie/windows/extended-security-updates"
-    checked: 2026-11-23
+    checked: 2026-11-26
   - title: "Microsoft Support Ireland: Windows 10 support has ended"
-    url: "https://support.microsoft.com/en-ie/windows/windows-10-support-has-ended-on-october-14-2025-2ca8b313-1946-43d3-b55c-2b95b107f281"
-    checked: 2026-11-23
+    url: "https://support.microsoft.com/en-us/windows/deployment/updates-lifecycle/windows-10-support-has-ended-on-october-14-2025"
+    checked: 2026-11-26
   - title: "Microsoft Ireland: Windows 11 specifications"
     url: "https://www.microsoft.com/en-ie/windows/windows-11-specifications"
-    checked: 2026-11-23
+    checked: 2026-11-26
   - title: "Microsoft Support Ireland: Reset your PC"
-    url: "https://support.microsoft.com/en-ie/windows/reset-your-pc-0ef73740-b927-549b-b7c9-e6f2b48d275e"
-    checked: 2026-11-23
+    url: "https://support.microsoft.com/en-us/windows/experience/backup-recovery/reset-your-pc"
+    checked: 2026-11-26
   - title: "Microsoft Support Ireland: Before you recycle, sell or gift your Windows PC"
-    url: "https://support.microsoft.com/en-ie/accounts-billing/security/before-you-recycle-sell-or-gift-your-xbox-or-windows-pc"
-    checked: 2026-11-23
+    url: "https://support.microsoft.com/en-us/accounts-billing/security/before-you-recycle-sell-or-gift-your-xbox-or-windows-pc"
+    checked: 2026-11-26
   - title: "EPA: What is WEEE?"
     url: "https://www.epa.ie/our-services/compliance--enforcement/waste/weee/"
-    checked: 2026-11-23
+    checked: 2026-11-26
 ---
 
 Windows 10 no longer gets regular updates, but you can still get its security updates free until 12 October 2027. In Ireland and the rest of the European Economic Area, enrol in Microsoft's Extended Security Updates and keep signing in to the PC with your Microsoft account.
@@ -73,7 +73,7 @@ Windows 11 needs at least:
 | Graphics | DirectX 12 or later, with a WDDM 2.0 driver |
 | Display | 720p, bigger than 9 inches |
 
-If you're not sure, Microsoft's free PC Health Check app checks your PC (though not its graphics card or display), or you can ask your PC's maker. Windows 11 Home needs an internet connection and a Microsoft account when you first set it up.
+If you're not sure, Microsoft's free PC Health Check app checks your PC (though not its graphics card or display), or you can ask your PC's maker. Windows 11 Home and Windows 11 Pro for personal use need an internet connection and a Microsoft account when you first set them up.
 
 ## Free security updates until October 2027
 

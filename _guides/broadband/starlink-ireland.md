@@ -5,9 +5,9 @@ summary: "Where Starlink is available in Ireland, what the home plans cost, spee
 topic: broadband
 format: quick-answer
 image: /assets/social/starlink-ireland.png
-last_checked: 2026-11-25
-last_modified_at: 2026-11-25   # keep the same as last_checked: the "updated" date Google and the sitemap see
-prices_checked: 2026-11-25   # the date the prices below were read; price-date.html shows it
+last_checked: 2026-11-26
+last_modified_at: 2026-11-26   # keep the same as last_checked: the "updated" date Google and the sitemap see
+prices_checked: 2026-11-26   # the date the prices below were read; price-date.html shows it
 approved: 2026-11-25   # approved by John Paul; re-read Starlink's Irish contract summary, plans page and complaints code in a browser the week before it's published
 verdict:
   answer: "Yes, across Ireland"
@@ -27,19 +27,19 @@ related:   # up to three next reads, by guide address; related.html shows them a
 sources:
   - title: "Starlink: Contract Summary, Ireland (4 Nov 2026)"
     url: "https://starlink.com/legal/documents/DOC-DF-fb76788b-742e-4178-a189-8c6515033397?regionCode=IE"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "Starlink Ireland: home page and service plans"
     url: "https://www.starlink.com/ie/service-plans"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "Starlink Ireland: availability map"
     url: "https://www.starlink.com/ie/map"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "Starlink: Right of Withdrawal, Ireland"
     url: "https://starlink.com/legal/documents/DOC-DF-c1b32f68-e2f6-420a-96b3-786ac8edf7a0?regionCode=IE"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "Starlink: Complaints Code of Practice, Ireland"
     url: "https://starlink.com/legal/documents/DOC-1038-70609-70?regionCode=IE"
-    checked: 2026-11-25
+    checked: 2026-11-26
 ---
 
 Yes. Starlink's map shows the whole of Ireland as available, and its home plans cost €35, €55 or €75 a month, with the dish and router rented free. The two cheaper plans are only offered in some areas, so enter your address on Starlink's Irish site to see what you can get.

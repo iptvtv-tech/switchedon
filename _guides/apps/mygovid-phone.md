@@ -5,8 +5,8 @@ summary: "Two ways to a verified MyGovID: the MyGovID app with an Irish passport
 topic: apps
 format: guide
 image: /assets/social/mygovid-phone.png
-last_checked: 2026-11-23
-last_modified_at: 2026-11-23   # keep the same as last_checked: the "updated" date Google and the sitemap see
+last_checked: 2026-11-26
+last_modified_at: 2026-11-26   # keep the same as last_checked: the "updated" date Google and the sitemap see
 approved: 2026-11-23   # approved by John Paul; re-check every source in the week before launch
 key_points:
   - "Revenue's myAccount, the HSE Health App and MyWelfare need a verified MyGovID, not a basic one."
@@ -20,31 +20,31 @@ related:   # up to three next reads, by guide address; related.html shows them a
 sources:
   - title: "MyGovID.ie"
     url: "https://www.mygovid.ie/"
-    checked: 2026-11-23
+    checked: 2026-11-26
   - title: "gov.ie: How to sign up for MyGovID"
     url: "https://www.gov.ie/en/service/b6ecfd-sign-up-for-mygovid"
-    checked: 2026-11-23
+    checked: 2026-11-26
   - title: "gov.ie: MyGovID app"
     url: "https://www.gov.ie/en/publication/f61b1-mygovid-app"
-    checked: 2026-11-23
+    checked: 2026-11-26
   - title: "App Store: MyGovID (Department of Social Protection)"
     url: "https://apps.apple.com/ie/app/mygovid/id6467636277"
-    checked: 2026-11-23
+    checked: 2026-11-26
   - title: "gov.ie: MyGovID"
     url: "https://www.gov.ie/en/policy-information/4bcfc9-mygovid"
-    checked: 2026-11-23
+    checked: 2026-11-26
   - title: "gov.ie: How to get a Public Services Card"
     url: "https://www.gov.ie/getapsc"
-    checked: 2026-11-23
+    checked: 2026-11-26
   - title: "Revenue: Use MyGovID to access myAccount"
     url: "https://www.revenue.ie/en/online-services/services/register-for-an-online-service/Use-MyGovID-to-access-myAccount.aspx"
-    checked: 2026-11-23
+    checked: 2026-11-26
   - title: "HSE: MyGovID and the HSE Health App"
     url: "https://www2.hse.ie/health-app/mygovid/"
-    checked: 2026-11-23
+    checked: 2026-11-26
   - title: "gov.ie: Government Digital Wallet, your questions answered"
     url: "https://www.gov.ie/en/department-of-public-expenditure-infrastructure-public-service-reform-and-digitalisation/publications/government-digital-wallet-your-questions-answered/"
-    checked: 2026-11-23
+    checked: 2026-11-26
 ---
 
 You can get a verified MyGovID on your phone with the free MyGovID app, if you're 16 or over, live in Ireland, have a valid Irish passport book and haven't been through SAFE registration before. If the app approves you, your Public Services Card comes in the post.

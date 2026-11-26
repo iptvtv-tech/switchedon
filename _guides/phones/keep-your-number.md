@@ -7,8 +7,8 @@ group: "Switching and setting up"   # the heading it sits under on the Phones pa
 format: guide
 popular: true
 image: /assets/social/keep-your-number.png
-last_checked: 2026-11-24
-last_modified_at: 2026-11-24   # keep the same as last_checked: the "updated" date Google and the sitemap see
+last_checked: 2026-11-26
+last_modified_at: 2026-11-26   # keep the same as last_checked: the "updated" date Google and the sitemap see
 approved: 2026-11-24   # approved by John Paul; re-check every source in the week before launch
 key_points:
   - "Keeping your number is free, but it isn't automatic: tell your new network you want to keep it."
@@ -22,22 +22,25 @@ related:   # up to three next reads, by guide address; related.html shows them a
 sources:
   - title: "ComReg: Switch mobile provider (29 May 2025)"
     url: "https://comreg.ie/advice-information/mobile/switch-mobile-provider"
-    checked: 2026-11-24
+    checked: 2026-11-26
   - title: "ComReg: The Mobile Switch Guide (Sept 2025)"
     url: "https://www.comreg.ie/media/2025/09/ComReg-Mobile-Switch-Brochure-A5-2025.pdf"
-    checked: 2026-11-24
+    checked: 2026-11-26
   - title: "ComReg 24/01: Switching and number portability compensation, with Regulation 90 (8 Jan 2024)"
     url: "https://www.comreg.ie/media/2024/01/ComReg-2401.pdf"
-    checked: 2026-11-24
+    checked: 2026-11-26
   - title: "Tesco Mobile Ireland: Keep your existing number when switching"
     url: "https://www.tescomobile.ie/help-centre/switching-to-tesco-mobile/keep-your-existing-number-when-switching"
-    checked: 2026-11-24
+    checked: 2026-11-26
   - title: "ComReg: Consumer Care (2 Mar 2026)"
     url: "https://comreg.ie/advice-information/consumer-care"
-    checked: 2026-11-24
+    checked: 2026-11-26
+  - title: "ComReg: Contact our Consumer Care team (8 May 2026)"
+    url: "https://www.comreg.ie/advice-information/consumer-care/contact-our-consumer-care-team/"
+    checked: 2026-11-26
   - title: "ComReg: How to complain to your phone or broadband service provider (1 Apr 2026)"
     url: "https://www.comreg.ie/how-to-complain-to-your-phone-or-broadband-provider/"
-    checked: 2026-11-24
+    checked: 2026-11-26
 ---
 
 Yes: keeping your mobile number when you switch is free, and your new network handles it, so just tell it you want to keep your number when you sign up.
@@ -86,7 +89,7 @@ To complain:
 
 1. Complain to the network under its code of practice, and get a complaint reference number.
 2. The network must send you a response within 10 working days.
-3. If it doesn't acknowledge your complaint or respond in time, or you're unhappy with its answer, ComReg's Consumer Care team may take it up with the network for you: call (01) 804 9668 (Monday to Friday, 8am to 8pm) or email consumerline@comreg.ie.
+3. If it doesn't acknowledge your complaint or respond in time, or you're unhappy with its answer, ComReg's Consumer Care team may take it up with the network for you: call (01) 804 9668 (Monday to Friday 8am to 8pm, Saturday 9am to 1pm) or email consumerline@comreg.ie.
 
 Your complaint to the network must have been made within the previous 12 months.
 

@@ -6,8 +6,8 @@ topic: phones
 group: "Travelling"   # the heading it sits under on the Phones page (_data/topics.yml groups)
 format: quick-answer
 image: /assets/social/irish-plan-in-the-uk.png
-last_checked: 2026-11-25
-last_modified_at: 2026-11-25   # keep the same as last_checked: the "updated" date Google and the sitemap see
+last_checked: 2026-11-26
+last_modified_at: 2026-11-26   # keep the same as last_checked: the "updated" date Google and the sitemap see
 approved: 2026-11-25   # approved by John Paul; re-check every network's page and checker in the week before launch
 verdict:
   answer: "Depends on your network"
@@ -27,25 +27,25 @@ related:   # up to three next reads, by guide address; related.html shows them a
 sources:
   - title: "ComReg: Roaming (8 May 2026)"
     url: "https://www.comreg.ie/advice-information/roaming-2/"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "ComReg 22/68: Update of EU roaming rules for mobile phone users (28 Jul 2022)"
     url: "https://comreg.ie/publication-download/update-of-eu-roaming-rules-for-mobile-phone-users"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "Vodafone Ireland: Roaming"
     url: "https://www.vodafone.ie/support/roaming"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "Three Ireland: Bill Pay price guide"
     url: "https://www.three.ie/pdf/Bill_Pay_Price_Guide.pdf"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "Three Ireland: Roaming rates checker"
     url: "https://www.three.ie/roaming/"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "eir: Bill pay roaming"
     url: "https://www.eir.ie/roaming/billpay/"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "eir: Prepay roaming"
     url: "https://www.eir.ie/roaming/prepay/"
-    checked: 2026-11-25
+    checked: 2026-11-26
 ---
 
 It depends on your network. Since Brexit the EU's 'Roam like at home' rules no longer cover the UK, so Irish networks don't have to include it: Vodafone and Three include the UK with their EU roaming, and eir's pages don't say either way.

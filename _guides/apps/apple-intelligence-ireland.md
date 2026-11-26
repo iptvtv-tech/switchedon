@@ -5,8 +5,8 @@ summary: "Which Apple Intelligence features work in Ireland, where you can use S
 topic: apps
 format: quick-answer
 image: /assets/social/apple-intelligence-ireland.png
-last_checked: 2026-11-25
-last_modified_at: 2026-11-25   # keep the same as last_checked: the "updated" date Google and the sitemap see
+last_checked: 2026-11-26
+last_modified_at: 2026-11-26   # keep the same as last_checked: the "updated" date Google and the sitemap see
 approved: 2026-11-25   # approved by John Paul; re-check both Apple Support pages the week before it's published (Siri AI's EU status, device lists, languages and usage limits change)
 verdict:
   answer: "Yes, but not Siri AI on iPhone"
@@ -26,16 +26,16 @@ related:   # up to three next reads, by guide address; related.html shows them a
 sources:
   - title: "Apple Support (IE): Get started with the next generation of Apple Intelligence (8 Nov 2026)"
     url: "https://support.apple.com/en-ie/121115"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "Apple Support (IE): How to get Siri AI (16 Nov 2026)"
     url: "https://support.apple.com/en-ie/127893"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "Apple (IE): Apple Intelligence and Siri"
     url: "https://www.apple.com/ie/apple-intelligence/"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "Apple Newsroom (IE): Siri AI and the EU (8 Jun 2026)"
     url: "https://www.apple.com/ie/newsroom/2026/06/due-to-dma-siri-ai-delayed-in-eu-for-ios-27-and-ipados-27/"
-    checked: 2026-11-25
+    checked: 2026-11-26
 ---
 
 Yes. Many Apple Intelligence features work in Ireland on a supported iPhone, iPad or Mac once you update to iOS 27, iPadOS 27 or macOS 27, with your device and Siri set to the same supported language, such as English.

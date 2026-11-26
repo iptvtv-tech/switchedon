@@ -5,9 +5,9 @@ summary: "Broadband filters cover every device on your Wi-Fi; phone controls fol
 topic: broadband
 format: guide
 image: /assets/social/parental-controls.png
-last_checked: 2026-11-25
-last_modified_at: 2026-11-25   # keep the same as last_checked: the "updated" date Google and the sitemap see
-prices_checked: 2026-11-25   # the date the prices below were read; price-date.html shows it
+last_checked: 2026-11-26
+last_modified_at: 2026-11-26   # keep the same as last_checked: the "updated" date Google and the sitemap see
+prices_checked: 2026-11-26   # the date the prices below were read; price-date.html shows it
 approved: 2026-11-25   # approved by John Paul; re-check each provider's page and Vodafone's prices the week before it's published
 key_points:
   - "Your broadband provider's parental controls cover every device on your home Wi-Fi. Virgin Media's and Sky's cost nothing extra; Vodafone's costs €2.99 a month."
@@ -20,40 +20,40 @@ related:   # up to three next reads, by guide address; related.html shows them a
 sources:
   - title: "Virgin Media Ireland: Parental Controls block notice"
     url: "https://www.virginmedia.ie/snippets/parentalcontrolblock/"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "Virgin Media Ireland: Broadband tips and treats (18 Nov 2024)"
     url: "https://www.virginmedia.ie/play/broadband-tips-treats/"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "Virgin Media Ireland: Protecting yourself online"
     url: "https://www.virginmedia.ie/fraud-hub/protecting-yourself-online/"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "Sky Ireland: Building a family-wide safety system"
     url: "https://www.sky.com/ie/hello-sky/tvandbroadband/family-online-safety-system"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "Vodafone Ireland: Secure Net"
     url: "https://n.vodafone.ie/protecting-you/secure-net.html"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "eir: Smart Start"
     url: "https://www.eir.ie/smartstart/"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "eir: Child safety"
     url: "https://www.eir.ie/childsafety/"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "Three Ireland: How to enable or disable the adult content filter"
     url: "https://www.three.ie/support/adult-content-filter.html"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "Apple Support (IE): Set up parental controls to manage your child's iPhone or iPad (27 Oct 2026)"
     url: "https://support.apple.com/en-ie/105121"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "Google For Families Help: Get started with Family Link"
     url: "https://support.google.com/families/answer/7101025?hl=en-IE"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "Coimisiún na Meán: Parental controls (8 Oct 2026)"
     url: "https://www.cnam.ie/general-public/guides-resources/for-parents/parental-controls/"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "Webwise: How to set up parental controls (14 Mar 2023)"
     url: "https://www.webwise.ie/parents/parental-controls-2/"
-    checked: 2026-11-25
+    checked: 2026-11-26
 ---
 
 The simplest place to start is your broadband provider's parental controls, which cover every device on your home Wi-Fi: Virgin Media's and Sky's cost nothing extra, Vodafone's costs €2.99 a month, and eir's modem lets you set time limits. On your child's phone, also use Screen Time on an iPhone or Google Family Link on Android, because a broadband filter covers your home Wi-Fi, not mobile data.

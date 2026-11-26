@@ -6,8 +6,8 @@ topic: phones
 group: "Switching and setting up"   # the heading it sits under on the Phones page (_data/topics.yml groups)
 format: quick-answer
 image: /assets/social/phone-bought-abroad.png
-last_checked: 2026-11-24
-last_modified_at: 2026-11-24   # keep the same as last_checked: the "updated" date Google and the sitemap see
+last_checked: 2026-11-26
+last_modified_at: 2026-11-26   # keep the same as last_checked: the "updated" date Google and the sitemap see
 approved: 2026-11-24   # approved by John Paul; re-check every source in the week before launch
 verdict:
   answer: "Yes, if it's unlocked and compatible"
@@ -27,40 +27,40 @@ related:   # up to three next reads, by guide address; related.html shows them a
 sources:
   - title: "ComReg: 3G retirement (19 Oct 2026)"
     url: "https://www.comreg.ie/advice-information/mobile/the-future-of-mobile/3g-retirement/"
-    checked: 2026-11-24
+    checked: 2026-11-26
   - title: "Vodafone Ireland: Our networks (3G switch-off and 4G Calling)"
     url: "https://www.vodafone.ie/about-us/vodafone-network"
-    checked: 2026-11-24
+    checked: 2026-11-26
   - title: "Three Ireland: 4G and WiFi Calling"
     url: "https://www.three.ie/support/4g-and-wi-fi-calling.html"
-    checked: 2026-11-24
+    checked: 2026-11-26
   - title: "Vodafone Ireland: SIM card and phone unlock"
     url: "https://n.vodafone.ie/support/mobile/puk-and-unlock-codes.html"
-    checked: 2026-11-24
+    checked: 2026-11-26
   - title: "Tesco Mobile Ireland: How to unlock your phone"
     url: "https://www.tescomobile.ie/help-centre/everything-else/your-phone/how-to-unlock-your-phone"
-    checked: 2026-11-24
+    checked: 2026-11-26
   - title: "Apple Support Ireland: Manage eSIM and SIM cards (21 Oct 2026)"
     url: "https://support.apple.com/en-ie/guide/platform-support/supcfc42a325/web"
-    checked: 2026-11-24
+    checked: 2026-11-26
   - title: "Apple Support Ireland: Use eSIM while travelling internationally (25 Oct 2026)"
     url: "https://support.apple.com/en-ie/118227"
-    checked: 2026-11-24
+    checked: 2026-11-26
   - title: "ComReg 24/11: MBSA2 award assessment (13 Feb 2024)"
     url: "https://comreg.ie/publication-download/information-notice-mbsa2-dotecons-award-assessment"
-    checked: 2026-11-24
+    checked: 2026-11-26
   - title: "Revenue: Travelling from outside the EU, duty-free allowances (22 Dec 2025)"
     url: "https://www.revenue.ie/en/customs/individuals/info-travelling-duty-free/from-outside-eu/allowances.aspx"
-    checked: 2026-11-24
+    checked: 2026-11-26
   - title: "Revenue: Customs controls on arrival at the airport or port"
     url: "https://www.revenue.ie/en/customs/individuals/info-travelling-duty-free/from-outside-eu/controls.aspx"
-    checked: 2026-11-24
+    checked: 2026-11-26
   - title: "Revenue: Travelling from within the EU, duty-paid and tax-paid goods"
     url: "https://www.revenue.ie/en/customs/individuals/info-travelling-duty-free/from-within-eu/duty-paid.aspx"
-    checked: 2026-11-24
+    checked: 2026-11-26
   - title: "CCPC: Buying outside the EU"
-    url: "https://www.ccpc.ie/consumers/shopping/buying-outside-the-eu/"
-    checked: 2026-11-24
+    url: "https://www.ccpc.ie/consumer-advice/consumer-rights/buying-goods/buying-outside-the-eu"
+    checked: 2026-11-26
 ---
 
 Yes, if it's unlocked and supports Irish networks. A phone locked to a network abroad won't work with an Irish SIM until that network unlocks it, and a phone without 4G Calling on your Irish network may fall back to the older 2G network for calls.

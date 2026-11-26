@@ -5,8 +5,8 @@ summary: "What the Government Digital Wallet is, when you can get it, what you'l
 topic: apps
 format: quick-answer
 image: /assets/social/government-digital-wallet.png
-last_checked: 2026-11-25
-last_modified_at: 2026-11-25   # keep the same as last_checked: the "updated" date Google and the sitemap see
+last_checked: 2026-11-26
+last_modified_at: 2026-11-26   # keep the same as last_checked: the "updated" date Google and the sitemap see
 approved: 2026-11-25   # approved by John Paul; re-check gov.ie/DigitalWallet the week before it's published and monthly until the wider release, then rewrite the answer when it launches
 verdict:
   answer: "Not yet: the pilot is closed"
@@ -26,22 +26,22 @@ related:   # up to three next reads, by guide address; related.html shows them a
 sources:
   - title: "gov.ie: Welcome to the Government Digital Wallet (16 Oct 2026)"
     url: "https://www.gov.ie/en/department-of-public-expenditure-infrastructure-public-service-reform-and-digitalisation/campaigns/welcome-to-the-government-digital-wallet/"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "gov.ie: Government Digital Wallet, your questions answered (22 Jul 2026)"
     url: "https://www.gov.ie/en/department-of-public-expenditure-infrastructure-public-service-reform-and-digitalisation/publications/government-digital-wallet-your-questions-answered/"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "gov.ie: How the Government Digital Wallet works (23 Jun 2026)"
     url: "https://www.gov.ie/en/how-the-government-digital-wallet-works/"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "gov.ie: Minister Chambers launches public consultation and testing phase for Ireland's new Government Digital Wallet (3 Apr 2026)"
     url: "https://www.gov.ie/en/department-of-public-expenditure-infrastructure-public-service-reform-and-digitalisation/press-releases/minister-chambers-launches-public-consultation-and-testing-phase-for-irelands-new-government-digital-wallet/"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "gov.ie: Government Digital Wallet, interoperability (23 Jul 2026)"
     url: "https://www.gov.ie/en/department-of-public-expenditure-infrastructure-public-service-reform-and-digitalisation/government-digital-wallet-interoperability/"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "EUR-Lex: Regulation (EU) 2024/1183, the European Digital Identity Framework"
     url: "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202401183"
-    checked: 2026-11-25
+    checked: 2026-11-26
 ---
 
 It's the Government's app for keeping digital versions of official documents on your phone and proving who you are, online or in person. You can't get it yet: its pilot passed 10,000 sign-ups and is closed to new people, and the Government says a wider public release is coming.

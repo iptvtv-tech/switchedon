@@ -5,8 +5,8 @@ summary: "The EU rules for new laptops: USB-C charging, buying without a charger
 topic: computers
 format: quick-answer
 image: /assets/social/usb-c-laptop-charging.png
-last_checked: 2026-11-25
-last_modified_at: 2026-11-25   # keep the same as last_checked: the "updated" date Google and the sitemap see
+last_checked: 2026-11-26
+last_modified_at: 2026-11-26   # keep the same as last_checked: the "updated" date Google and the sitemap see
 approved: 2026-11-25   # approved by John Paul; re-check ComReg's and the Commission's pages, and the Commission's report due by 28 Dec 2026, the week before it's published
 verdict:
   answer: "Yes, since 28 April 2026"
@@ -26,28 +26,28 @@ related:   # up to three next reads, by guide address; related.html shows them a
 sources:
   - title: "ComReg: Common Charger Directive (CCD) (updated 12 Aug 2026)"
     url: "https://www.comreg.ie/industry/product-safety/common-charger-directive-ccd/"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "ComReg: Mobile phones and other handheld electronic devices must now share a Common Charger (30 Dec 2024)"
     url: "https://www.comreg.ie/mobile-phones-and-other-handheld-electronic-devices-must-now-share-a-common-charger/"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "ComReg: Report a product safety issue"
     url: "https://www.comreg.ie/industry/product-safety/report-a-product-safety-issue/"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "European Commission: One common charging solution for all"
     url: "https://single-market-economy.ec.europa.eu/sectors/electrical-and-electronic-engineering-industries-eei/radio-equipment-directive-red/one-common-charging-solution-all_en"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "Directive (EU) 2022/2380 (the Common Charger Directive)"
     url: "https://eur-lex.europa.eu/eli/dir/2022/2380/oj/eng"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "European Commission: Guidance for the interpretation of the Common Charger Directive (7 May 2024)"
     url: "https://eur-lex.europa.eu/eli/C/2024/2997/oj/eng"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "S.I. No. 30 of 2024: European Union (Radio Equipment) (Amendment) Regulations 2024"
     url: "https://www.irishstatutebook.ie/2024/en/si/0030.html"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "gov.ie: 'One Size Fits All' Phone and Electronic Charger Directive to come into place (27 Dec 2024)"
     url: "https://www.gov.ie/en/department-of-climate-energy-and-the-environment/press-releases/one-size-fits-all-phone-and-electronic-charger-directive-to-come-into-place/"
-    checked: 2026-11-25
+    checked: 2026-11-26
 ---
 
 Yes. Laptops first put on sale in the EU from 28 April 2026 must have a USB-C charging port, so a USB-C charger from any brand can charge them if it gives enough power. A laptop offered with a charger must also be offered without one, so check whether one is in the box.

@@ -5,8 +5,8 @@ summary: "Your rights when buying refurbished or second-hand, Apple's and Three'
 topic: buying
 format: guide
 image: /assets/social/refurbished-phone-laptop.png
-last_checked: 2026-11-25
-last_modified_at: 2026-11-25   # keep the same as last_checked: the "updated" date Google and the sitemap see
+last_checked: 2026-11-26
+last_modified_at: 2026-11-26   # keep the same as last_checked: the "updated" date Google and the sitemap see
 approved: 2026-11-25   # approved by John Paul; re-check Apple's and Three's refurbished pages the week before it's published
 key_points:
   - "Buy refurbished from a business and you have similar rights to buying new: it must work as it should and match its description."
@@ -20,25 +20,25 @@ related:   # up to three next reads, by guide address; related.html shows them a
 sources:
   - title: "CCPC: Buying second-hand goods"
     url: "https://www.ccpc.ie/consumer-advice/consumer-rights/buying-goods/buying-second-hand-goods"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "CCPC: Changing your mind"
     url: "https://www.ccpc.ie/consumer-advice/consumer-rights/buying-goods/changing-your-mind"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "CCPC: Guarantees and warranties"
     url: "https://www.ccpc.ie/consumer-advice/consumer-rights/buying-goods/guarantees-and-warranties"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "CCPC: European sweep of websites selling second-hand goods (7 Mar 2025)"
     url: "https://www.ccpc.ie/news-and-media/news/article/2025/03/07/european-sweep-of-websites-selling-second-hand-goods-finds-more-than-half-potentially-breaking-consumer-law"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "Apple (IE): Why Refurbished"
     url: "https://www.apple.com/ie/shop/refurbished/about"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "Three Ireland: Refurbished phones"
     url: "https://www.three.ie/deals/refurbished-phones.html"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "Apple Support (IE): If you want to buy a pre-owned iPhone (23 Mar 2026)"
     url: "https://support.apple.com/en-ie/104999"
-    checked: 2026-11-25
+    checked: 2026-11-26
 ---
 
 If you buy a refurbished phone or laptop from a business in Ireland, you have similar rights to buying new: it must be fit for its normal use and match its description, and its quality should reflect the price you paid.

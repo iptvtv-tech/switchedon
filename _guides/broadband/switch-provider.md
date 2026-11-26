@@ -5,8 +5,8 @@ summary: "How a switch works, what it costs, when to switch, and what to do if i
 topic: broadband
 format: guide
 image: /assets/social/switch-provider.png
-last_checked: 2026-11-23
-last_modified_at: 2026-11-23   # keep the same as last_checked: the "updated" date Google and the sitemap see
+last_checked: 2026-11-26
+last_modified_at: 2026-11-26   # keep the same as last_checked: the "updated" date Google and the sitemap see
 approved: 2026-11-23   # approved by John Paul; re-check every source in the week before launch
 key_points:
   - "Your new provider runs the switch: you don't cancel your old service or give notice."
@@ -20,25 +20,25 @@ related:   # up to three next reads, by guide address; related.html shows them a
 sources:
   - title: "ComReg: Switching your broadband service (7 Aug 2026)"
     url: "https://www.comreg.ie/switching-your-broadband-service/"
-    checked: 2026-11-23
+    checked: 2026-11-26
   - title: "ComReg: Broadband switching made easy"
     url: "https://www.comreg.ie/broadband-switching-made-easy/"
-    checked: 2026-11-23
+    checked: 2026-11-26
   - title: "ComReg: The Phone and Broadband Switch Guide (2025)"
     url: "https://www.comreg.ie/media/2025/09/ComReg-Phone-and-Broadband-Switch-Brochure-A5-2025.pdf"
-    checked: 2026-11-23
+    checked: 2026-11-26
   - title: "ComReg: Contracts"
     url: "https://www.comreg.ie/advice-information/contracts/"
-    checked: 2026-11-23
+    checked: 2026-11-26
   - title: "ComReg: End of Contract Notice and Best Tariff Advice"
     url: "https://www.comreg.ie/end-of-contract-notice-and-best-tariff-advice/"
-    checked: 2026-11-23
+    checked: 2026-11-26
   - title: "ComReg: Annual price increases"
     url: "https://www.comreg.ie/advice-information/contracts/annual-price-increases/"
-    checked: 2026-11-23
+    checked: 2026-11-26
   - title: "ComReg: Consumer Care"
     url: "https://comreg.ie/advice-information/consumer-care"
-    checked: 2026-11-23
+    checked: 2026-11-26
 ---
 
 Ask your new provider to switch you. It manages the move, so you don't cancel or give your old provider 30 days' notice, and you shouldn't be without broadband for more than one working day.

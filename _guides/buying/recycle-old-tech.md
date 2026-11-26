@@ -5,8 +5,8 @@ summary: "Where to bring it, what shops must take back, getting a new TV deliver
 topic: buying
 format: guide
 image: /assets/social/recycle-old-tech.png
-last_checked: 2026-11-24
-last_modified_at: 2026-11-24   # keep the same as last_checked: the "updated" date Google and the sitemap see
+last_checked: 2026-11-26
+last_modified_at: 2026-11-26   # keep the same as last_checked: the "updated" date Google and the sitemap see
 approved: 2026-11-25   # approved by John Paul; re-check every source in the week before launch
 key_points:
   - "Recycling anything with a plug, battery or cable is free, at any local authority recycling centre."
@@ -20,40 +20,40 @@ related:   # up to three next reads, by guide address; related.html shows them a
 sources:
   - title: "EPA: What is WEEE? (7 Oct 2026)"
     url: "https://www.epa.ie/our-services/compliance--enforcement/waste/weee/"
-    checked: 2026-11-24
+    checked: 2026-11-26
   - title: "EPA: Summary of changes under the WEEE Regulations, S.I. No. 149 of 2014 (March 2015)"
     url: "https://www.epa.ie/publications/compliance--enforcement/waste/Summary-of-changes-under-the-new-WEEE-Regulations-(S-I--No--149-of-2014).pdf"
-    checked: 2026-11-24
+    checked: 2026-11-26
   - title: "EPA: WEEE and Batteries Regulations, quick start guide for retailers"
     url: "https://www.epa.ie/publications/compliance--enforcement/waste/Quick-start-guide-for-retailers-of-EEE-and-batteries.pdf"
-    checked: 2026-11-24
+    checked: 2026-11-26
   - title: "WEEE Ireland: Household recycling FAQ (30 Jul 2024)"
     url: "https://weeeireland.ie/household-recycling/household-recycling-faq"
-    checked: 2026-11-24
+    checked: 2026-11-26
   - title: "WEEE Ireland: Find your nearest free recycling drop off point (26 Feb 2026)"
     url: "https://www.weeeireland.ie/household-recycling/where-can-i-recycle/"
-    checked: 2026-11-24
+    checked: 2026-11-26
   - title: "mywaste.ie: WEEE help and FAQs (3 Sep 2026)"
     url: "https://mywaste.ie/sustainability/weee/help-faqs/"
-    checked: 2026-11-24
+    checked: 2026-11-26
   - title: "ERP Ireland: Free electrical drop-off events 2026 (18 Mar 2026)"
     url: "https://erp-recycling.org/ie/news-and-events/2026/03/erp-free-electrical-drop-off-events-schedule-2026-announced/"
-    checked: 2026-11-24
+    checked: 2026-11-26
   - title: "Dún Laoghaire-Rathdown County Council: Waste electrical and electronic equipment"
     url: "https://www.dlrcoco.ie/recycling-waste/waste/waste-electrical-and-electronic-equipment-weee"
-    checked: 2026-11-24
+    checked: 2026-11-26
   - title: "Apple Support Ireland: Before you sell, give away or trade in your iPhone or iPad (12 Jun 2026)"
     url: "https://support.apple.com/en-ie/109511"
-    checked: 2026-11-24
+    checked: 2026-11-26
   - title: "Apple Support Ireland: Before you sell, give away, trade in or recycle your Mac (17 Sep 2026)"
     url: "https://support.apple.com/en-ie/102773"
-    checked: 2026-11-24
+    checked: 2026-11-26
   - title: "Google Android Help: Reset your Android device to factory settings"
     url: "https://support.google.com/android/answer/6088915?hl=en-IE"
-    checked: 2026-11-24
+    checked: 2026-11-26
   - title: "Apple Ireland: Apple Trade In"
     url: "https://www.apple.com/ie/trade-in/"
-    checked: 2026-11-24
+    checked: 2026-11-26
 ---
 
 Recycling an old phone, laptop or TV is free in Ireland: bring it to any local authority recycling centre, or to a shop when you buy a new one of a similar type. Large electrical shops must also take small items, under 25cm, without you buying anything.

@@ -6,9 +6,9 @@ topic: buying
 format: guide
 popular: true
 image: /assets/social/uk-shop-vat-customs.png
-last_checked: 2026-11-23
-last_modified_at: 2026-11-23   # keep the same as last_checked: the "updated" date Google and the sitemap see
-prices_checked: 2026-11-23   # the date the prices below were read; price-date.html shows it
+last_checked: 2026-11-26
+last_modified_at: 2026-11-26   # keep the same as last_checked: the "updated" date Google and the sitemap see
+prices_checked: 2026-11-26   # the date the prices below were read; price-date.html shows it
 approved: 2026-11-23   # approved by John Paul; re-check every source in the week before launch
 key_points:
   - "Parcels from Great Britain carry Irish VAT, customs duty and a €2 handling fee for each different item."
@@ -22,31 +22,31 @@ related:   # up to three next reads, by guide address; related.html shows them a
 sources:
   - title: "Revenue: Buying goods online from outside the EU (press release, 19 Nov 2026)"
     url: "https://www.revenue.ie/en/corporate/press-office/press-releases/2026/pr-111926-buying-goods-online.aspx"
-    checked: 2026-11-23
+    checked: 2026-11-26
   - title: "Revenue: Union Handling Fee (press release, 29 Sep 2026)"
     url: "https://www.revenue.ie/en/corporate/press-office/press-releases/2026/pr-092926-handling-fee.aspx"
-    checked: 2026-11-23
+    checked: 2026-11-26
   - title: "Revenue: Buying goods from outside the EU"
     url: "https://revenue.ie/en/customs/individuals/buying-online-personal/outside-eu.aspx"
-    checked: 2026-11-23
+    checked: 2026-11-26
   - title: "Revenue: Buying goods online for personal use"
     url: "https://www.revenue.ie/en/customs/individuals/buying-online-personal/index.aspx"
-    checked: 2026-11-23
+    checked: 2026-11-26
   - title: "Revenue: Refund of customs duty and VAT"
     url: "https://revenue.ie/en/customs/individuals/buying-online-personal/claim-refund.aspx"
-    checked: 2026-11-23
-  - title: "An Post: Customs"
-    url: "https://anpost.com/customs"
-    checked: 2026-11-23
+    checked: 2026-11-26
+  - title: "An Post: Customs information"
+    url: "https://www.anpost.com/Post-Parcels/Receiving/Customs-Information"
+    checked: 2026-11-26
   - title: "CCPC: Buying outside the EU"
-    url: "https://www.ccpc.ie/consumers/shopping/buying-outside-the-eu/"
-    checked: 2026-11-23
+    url: "https://www.ccpc.ie/consumer-advice/consumer-rights/buying-goods/buying-outside-the-eu"
+    checked: 2026-11-26
   - title: "CCPC: Disputed card transactions (chargeback)"
-    url: "https://www.ccpc.ie/consumers/shopping/disputed-card-transactions-chargeback"
-    checked: 2026-11-23
+    url: "https://www.ccpc.ie/consumer-advice/consumer-rights/buying-goods/disputed-card-transactions-chargeback"
+    checked: 2026-11-26
   - title: "Courts Service: About small claims"
     url: "https://courts.ie/guides/about-small-claim"
-    checked: 2026-11-23
+    checked: 2026-11-26
 ---
 
 If you order from a shop in Great Britain, you'll pay Irish VAT and customs duty on top of the price. The seller or delivery company can also pass on a €2 handling fee for each different item. Duty is €3 per item on parcels worth €150 or less, and the normal duty for those goods above that.
@@ -93,7 +93,7 @@ If An Post is delivering:
 - An Post may add a customs administration fee of €6.95. It lists the handling fee as a minimum of €2 plus VAT per item.
 - There's an extra €10 charge if VAT is due, wasn't charged at checkout and the sender's electronic details were incomplete.
 - Pay online by card with the customs reference number from the postcard, email or text, or at any post office by card or cash. You can't pay by phone.
-- Pay by the "Pay by Date" on the postcard, or the parcel goes back to the sender. You can also refuse the parcel online or at a post office.
+- Pay by the "Pay by Date" on the postcard, or the parcel goes back to the sender.
 
 Watch out for fake texts and emails asking for customs payments. An Post never puts a link in a message about customs charges, and Revenue never texts or emails asking for them. Revenue's advice is not to click any links and to delete the message.
 
@@ -107,7 +107,7 @@ If you change your mind and return something, you won't get back:
 
 Whether you get the VAT back is up to the shop: some refund it when you return an item, but many don't.
 
-Revenue says duty on parcels worth more than €150 may be refunded if you return the goods within 90 days. You claim through the courier or postal company that dealt with customs for your parcel, as Revenue doesn't pay refunds to consumers directly. But An Post says it doesn't refund VAT or customs charges on goods returned after delivery. Check with the delivery company before you send it back.
+Revenue says duty on parcels worth more than €150 may be refunded if you return the goods within 90 days. You claim through the courier or postal company that dealt with customs for your parcel, as Revenue doesn't pay refunds to consumers directly. Check with the delivery company before you send it back.
 
 ## If it's faulty
 

@@ -15,9 +15,9 @@ lenovo-ideapad-slim-5-14:
   note: "Engineering students: check the battery lasts your day; Euronics' page doesn't give hours."
   specs: "Intel Core i7-13620H, 16GB, 512GB SSD, 14-inch 1920x1200, two USB-A ports, 1.47kg"
   where: "Euronics Ireland"
-  url: "https://euronics.ie/products/lenovo-ideapad-slim-5-14irh10-intel-core-i7-13620h-16gb-ram-512gb-ssd-14-wuxga-83hr00bguk-lips5"
+  url: "https://euronics.ie/products/lenovo-ideapad-slim-5-14irh10-intel-core-i7-13620h-16gb-ram-512gb-ssd-14-wuxga-83hr00bguk"
   paid: false
-  checked: 2026-11-23
+  checked: 2026-11-26
 
 macbook-air-13-m5:
   name: "MacBook Air 13-inch (M5)"
@@ -28,4 +28,4 @@ macbook-air-13-m5:
   where: "Apple Ireland"
   url: "https://www.apple.com/ie/macbook-air/specs/"
   paid: false
-  checked: 2026-11-23
+  checked: 2026-11-26

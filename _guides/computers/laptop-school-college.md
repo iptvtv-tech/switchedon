@@ -5,8 +5,8 @@ summary: "What Irish colleges ask for, Windows, Mac or Chromebook, student disco
 topic: computers
 format: buying-guide
 image: /assets/social/laptop-school-college.png
-last_checked: 2026-11-23
-last_modified_at: 2026-11-23   # keep the same as last_checked: the "updated" date Google and the sitemap see
+last_checked: 2026-11-26
+last_modified_at: 2026-11-26   # keep the same as last_checked: the "updated" date Google and the sitemap see
 approved: 2026-11-23   # approved by John Paul; re-check every source in the week before launch
 affiliate: false       # true only once a card carries a paid link; turns on the Ad box
 products: [lenovo-ideapad-slim-5-14, macbook-air-13-m5]
@@ -22,34 +22,34 @@ related:   # up to three next reads, by guide address; related.html shows them a
 sources:
   - title: "Trinity: IT purchasing advice for students (updated 8 Oct 2026)"
     url: "https://www.tcd.ie/itservices/our-services/it-purchasing-advice/students/"
-    checked: 2026-11-23
+    checked: 2026-11-26
   - title: "Trinity Engineering: laptop specs 2025/26"
     url: "https://www.tcd.ie/media/tcd/engineering/pdfs/resources/Laptop-Specs-2025.26.pdf"
-    checked: 2026-11-23
+    checked: 2026-11-26
   - title: "UCC: student device purchasing advice (updated 6 Sep 2024)"
     url: "https://www.ucc.ie/en/sit/new-to-student-it/device-purchasing/"
-    checked: 2026-11-23
+    checked: 2026-11-26
   - title: "UCD Engineering: recommended laptop specs"
     url: "https://www.ucd.ie/eacollege/t4media/Recommended_Specifications_for_Engineering_Student_Laptops.pdf"
-    checked: 2026-11-23
+    checked: 2026-11-26
   - title: "UCD business schools: advised laptop standard"
     url: "https://buselrn.ucd.ie/advised-laptop-standard"
-    checked: 2026-11-23
+    checked: 2026-11-26
   - title: "Apple Store for Education, Ireland"
     url: "https://www.apple.com/ie-edu/store"
-    checked: 2026-11-23
+    checked: 2026-11-26
   - title: "Microsoft Store Ireland: student discount"
     url: "https://www.microsoft.com/en-ie/store/b/special-discount-terms"
-    checked: 2026-11-23
+    checked: 2026-11-26
   - title: "CCPC: school uniforms and mobile devices"
     url: "https://www.ccpc.ie/information-for-businesses/guidance-for-businesses/competition-law-guidance/supply-of-school-uniforms-and-mobile-devices"
-    checked: 2026-11-23
+    checked: 2026-11-26
   - title: "Euronics Ireland: Lenovo IdeaPad Slim 5 14IRH10"
-    url: "https://euronics.ie/products/lenovo-ideapad-slim-5-14irh10-intel-core-i7-13620h-16gb-ram-512gb-ssd-14-wuxga-83hr00bguk-lips5"
-    checked: 2026-11-23
+    url: "https://euronics.ie/products/lenovo-ideapad-slim-5-14irh10-intel-core-i7-13620h-16gb-ram-512gb-ssd-14-wuxga-83hr00bguk"
+    checked: 2026-11-26
   - title: "Apple Ireland: MacBook Air specs"
     url: "https://www.apple.com/ie/macbook-air/specs/"
-    checked: 2026-11-23
+    checked: 2026-11-26
 ---
 
 Check the course's own laptop requirements before you buy. Irish colleges and departments publish them, and they range from UCC's view that most standard Windows laptops are enough to Trinity engineering's minimum of 16GB of memory and a 512GB SSD.

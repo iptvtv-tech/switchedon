@@ -5,9 +5,9 @@ summary: "Test over a cable, move the router, cut the competition, use a cable, 
 topic: broadband
 format: guide
 image: /assets/social/wifi-dead-spots.png
-last_checked: 2026-11-24
-last_modified_at: 2026-11-24   # keep the same as last_checked: the "updated" date Google and the sitemap see
-prices_checked: 2026-11-24   # the date the prices below were read; price-date.html shows it
+last_checked: 2026-11-26
+last_modified_at: 2026-11-26   # keep the same as last_checked: the "updated" date Google and the sitemap see
+prices_checked: 2026-11-26   # the date the prices below were read; price-date.html shows it
 approved: 2026-11-24   # approved by John Paul; re-check every source in the week before launch
 key_points:
   - "Start free: put the router in the middle of your home, out in the open and off the floor."
@@ -21,31 +21,31 @@ related:   # up to three next reads, by guide address; related.html shows them a
 sources:
   - title: "ComReg: All About Broadband (Sept 2025)"
     url: "https://www.comreg.ie/media/2025/09/ComReg-All-About-Broadband-Brochure-A5-2025.pdf"
-    checked: 2026-11-24
+    checked: 2026-11-26
   - title: "ComReg: Get the most out of your broadband & home phone (8 May 2026)"
     url: "https://www.comreg.ie/advice-information/broadband-and-home-phone/get-the-most-out-of-your-broadband-home-phone/"
-    checked: 2026-11-24
+    checked: 2026-11-26
   - title: "ComReg: How to complain to your phone or broadband service provider (1 Apr 2026)"
     url: "https://www.comreg.ie/how-to-complain-to-your-phone-or-broadband-provider/"
-    checked: 2026-11-24
+    checked: 2026-11-26
   - title: "National Broadband Ireland: 9 Ways to Maximise Wi-Fi in Your Home (27 Feb 2026)"
     url: "https://nbi.ie/articles/9-ways-to-maximise-wi-fi-in-your-home/"
-    checked: 2026-11-24
+    checked: 2026-11-26
   - title: "Virgin Media Ireland: WiFi Guarantee"
     url: "https://www.virginmedia.ie/wifiguarantee"
-    checked: 2026-11-24
+    checked: 2026-11-26
   - title: "Vodafone Ireland: Super Wi-Fi support"
     url: "https://n.vodafone.ie/support/broadband-and-landline-hub/broadband-landline/super-wifi-support.html"
-    checked: 2026-11-24
+    checked: 2026-11-26
   - title: "eir: WiFi booster"
     url: "https://eir.ie/wifi-booster/"
-    checked: 2026-11-24
+    checked: 2026-11-26
   - title: "Sky Ireland: WiFi Max"
     url: "https://www.sky.com/ie/broadband/wifi-max"
-    checked: 2026-11-24
+    checked: 2026-11-26
   - title: "ComReg: Consumer Care (2 Mar 2026)"
     url: "https://comreg.ie/advice-information/consumer-care"
-    checked: 2026-11-24
+    checked: 2026-11-26
 ---
 
 Where your router sits makes a big difference to your Wi-Fi: the further you are from it, and the more walls in between, the weaker the signal. Start with simple fixes, like moving the router somewhere central and using a cable where you can.

@@ -6,8 +6,8 @@ topic: phones
 group: "Signal and calls"   # the heading it sits under on the Phones page (_data/topics.yml groups)
 format: guide
 image: /assets/social/poor-mobile-signal.png
-last_checked: 2026-11-25
-last_modified_at: 2026-11-25   # keep the same as last_checked: the "updated" date Google and the sitemap see
+last_checked: 2026-11-26
+last_modified_at: 2026-11-26   # keep the same as last_checked: the "updated" date Google and the sitemap see
 approved: 2026-11-25   # approved by John Paul; re-check ComReg's repeater page and the 2026 Order the week before it's published
 key_points:
   - "ComReg's advice: check which network covers your home best, then turn on WiFi Calling, and lastly consider a mobile repeater."
@@ -21,28 +21,28 @@ related:   # up to three next reads, by guide address; related.html shows them a
 sources:
   - title: "ComReg: Check your mobile coverage (19 May 2026)"
     url: "https://www.comreg.ie/check-your-mobile-coverage/"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "ComReg: Get the most out of your mobile service (26 Aug 2024)"
     url: "https://www.comreg.ie/advice-information/mobile/get-the-most-out-of-your-mobile-service/"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "ComReg: All About Mobile brochure (Sept 2025)"
     url: "https://www.comreg.ie/media/2025/09/ComReg-All-About-Mobile-Brochure-A5-2025.pdf"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "ComReg: Mobile phone repeaters"
     url: "https://www.comreg.ie/advice-information/mobile/get-the-most-out-of-your-mobile-service/mobile-phone-repeaters/"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "S.I. No. 86 of 2026: Exemption of Mobile Phone Repeaters Order 2026"
     url: "https://www.irishstatutebook.ie/eli/2026/si/86/made/en/print"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "eir: Mobile support, Fix a problem"
     url: "https://www.eir.ie/helpandsupport/mobile/fix-a-problem/"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "Three Ireland: Mobile services"
     url: "https://www.three.ie/legal/technologies.html"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "ComReg: Consumer Care (2 Mar 2026)"
     url: "https://comreg.ie/advice-information/consumer-care"
-    checked: 2026-11-25
+    checked: 2026-11-26
 ---
 
 If your mobile signal is poor at home, ComReg's advice is to check which network gives the best coverage where you live, then turn on WiFi Calling if your network and phone support it, and lastly consider a mobile repeater. Repeaters are legal and need no licence, but only ones that meet ComReg's conditions and carry the CE mark: cheap boosters that don't are illegal.

@@ -6,8 +6,8 @@ topic: phones
 group: "Switching and setting up"   # the heading it sits under on the Phones page (_data/topics.yml groups)
 format: guide
 image: /assets/social/switch-to-esim.png
-last_checked: 2026-11-24
-last_modified_at: 2026-11-24   # keep the same as last_checked: the "updated" date Google and the sitemap see
+last_checked: 2026-11-26
+last_modified_at: 2026-11-26   # keep the same as last_checked: the "updated" date Google and the sitemap see
 approved: 2026-11-24   # approved by John Paul; re-check every source in the week before launch
 key_points:
   - "Three, Vodafone and eir all offer eSIM to new and existing customers."
@@ -21,22 +21,22 @@ related:   # up to three next reads, by guide address; related.html shows them a
 sources:
   - title: "Three Ireland: eSIM, what it is and how to get one"
     url: "https://www.three.ie/esim.html"
-    checked: 2026-11-24
+    checked: 2026-11-26
   - title: "Vodafone Ireland: eSIM support FAQs"
     url: "https://n.vodafone.ie/support/mobile/esim-support-faqs.html"
-    checked: 2026-11-24
+    checked: 2026-11-26
   - title: "eir: eSIM"
     url: "https://www.eir.ie/esim/"
-    checked: 2026-11-24
+    checked: 2026-11-26
   - title: "eir: About eSIM"
     url: "https://www.eir.ie/helpandsupport/mobile/esim/about-esim/"
-    checked: 2026-11-24
+    checked: 2026-11-26
   - title: "eir: eSIM management"
     url: "https://www.eir.ie/helpandsupport/mobile/esim/esim-management/"
-    checked: 2026-11-24
+    checked: 2026-11-26
   - title: "Apple Support Ireland: Manage eSIM and SIM cards (21 Oct 2026)"
     url: "https://support.apple.com/en-ie/guide/platform-support/supcfc42a325/web"
-    checked: 2026-11-24
+    checked: 2026-11-26
 ---
 
 Three, Vodafone and eir all offer eSIM, and existing customers can swap a physical SIM for one on the same account.

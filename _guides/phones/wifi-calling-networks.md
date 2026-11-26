@@ -6,8 +6,8 @@ topic: phones
 group: "Signal and calls"   # the heading it sits under on the Phones page (_data/topics.yml groups)
 format: quick-answer
 image: /assets/social/wifi-calling-networks.png
-last_checked: 2026-11-25
-last_modified_at: 2026-11-25   # keep the same as last_checked: the "updated" date Google and the sitemap see
+last_checked: 2026-11-26
+last_modified_at: 2026-11-26   # keep the same as last_checked: the "updated" date Google and the sitemap see
 approved: 2026-11-25   # approved by John Paul; re-check every network's page and terms the week before it's published (phone lists, eligible plans and the iPhone menu path change)
 verdict:
   answer: "Vodafone, Three and eir"
@@ -27,31 +27,31 @@ related:   # up to three next reads, by guide address; related.html shows them a
 sources:
   - title: "Vodafone Ireland: Vodafone Network (4G and Wi-Fi Calling)"
     url: "https://www.vodafone.ie/about-us/vodafone-network"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "Vodafone Ireland: Next Generation Voice FAQs"
     url: "https://n.vodafone.ie/support/bill-pay-hub/bill-pay/wi-fi-calling.html"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "Three Ireland: 4G and WiFi Calling"
     url: "https://www.three.ie/support/4g-and-wi-fi-calling.html"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "Three Ireland: WiFi Calling terms"
     url: "https://www.three.ie/legal/terms/wi-fi-calling.html"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "Three Ireland: How to activate WiFi Calling on iPhone 15 Pro Max (iOS 27)"
     url: "https://www.three.ie/device-support/apple-iphone-15-pro-max/wifi/how-to-activate-wifi-calling/p5_d26248_t17490/"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "eir: eir WiFi calling"
     url: "https://www.eir.ie/helpandsupport/mobile/eir-mobile-services/eir-wifi-calling/"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "eir: WiFi calling enabled phones and plans"
     url: "https://www.eir.ie/helpandsupport/mobile/eir-mobile-services/eir-wifi-calling/enabled-phones/"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "eir: WiFi Call terms and conditions (PDF)"
     url: "https://www.eir.ie/.content/pdf/terms/EirWiFiCallTermsandconditions.pdf"
-    checked: 2026-11-25
+    checked: 2026-11-26
   - title: "Sky Mobile Ireland: mobile plans"
     url: "https://www.sky.com/ie/shop/mobile"
-    checked: 2026-11-25
+    checked: 2026-11-26
 ---
 
 Vodafone, Three and eir all offer WiFi Calling, which lets you make and receive calls over WiFi where your mobile signal is poor. It costs nothing extra: calls come out of your plan's allowance as usual, but your phone has to be on your network's list of supported phones.
