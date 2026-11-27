@@ -7,6 +7,7 @@ format: guide
 image: /assets/social/refurbished-phone-laptop.png
 last_checked: 2026-11-26
 last_modified_at: 2026-11-26   # keep the same as last_checked: the "updated" date Google and the sitemap see
+date: 2026-11-27   # published: launch day
 approved: 2026-11-25   # approved by John Paul; re-check Apple's and Three's refurbished pages the week before it's published
 key_points:
   - "Buy refurbished from a business and you have similar rights to buying new: it must work as it should and match its description."

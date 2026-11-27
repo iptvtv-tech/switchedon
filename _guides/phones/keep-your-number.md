@@ -9,6 +9,7 @@ popular: true
 image: /assets/social/keep-your-number.png
 last_checked: 2026-11-26
 last_modified_at: 2026-11-26   # keep the same as last_checked: the "updated" date Google and the sitemap see
+date: 2026-11-27   # published: launch day
 approved: 2026-11-24   # approved by John Paul; re-check every source in the week before launch
 key_points:
   - "Keeping your number is free, but it isn't automatic: tell your new network you want to keep it."

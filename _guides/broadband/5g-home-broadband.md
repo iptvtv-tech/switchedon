@@ -7,6 +7,7 @@ format: guide
 image: /assets/social/5g-home-broadband.png
 last_checked: 2026-11-26
 last_modified_at: 2026-11-26   # keep the same as last_checked: the "updated" date Google and the sitemap see
+date: 2026-11-27   # published: launch day
 prices_checked: 2026-11-26   # the date the prices below were read; price-date.html shows it
 approved: 2026-11-26   # approved by John Paul ("29 approved"); prices are offers: re-check all three providers the week before it's published
 key_points:

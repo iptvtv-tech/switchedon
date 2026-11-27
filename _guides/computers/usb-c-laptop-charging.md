@@ -7,6 +7,7 @@ format: quick-answer
 image: /assets/social/usb-c-laptop-charging.png
 last_checked: 2026-11-26
 last_modified_at: 2026-11-26   # keep the same as last_checked: the "updated" date Google and the sitemap see
+date: 2026-11-27   # published: launch day
 approved: 2026-11-25   # approved by John Paul; re-check ComReg's and the Commission's pages, and the Commission's report due by 28 Dec 2026, the week before it's published
 verdict:
   answer: "Yes, since 28 April 2026"

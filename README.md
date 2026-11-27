@@ -1,6 +1,6 @@
 # Switched On – private preview
 
-This is the Switched On site. It lives in the GitHub repo iptvtv-tech/switchedon, and GitHub Actions checks and publishes it (see Deploy). Until launch day, `preview_mode` is on: every page shows a dark "Private preview" bar at the top and tells search engines not to index it. You can also run it on your PC (see View it on your PC).
+This is the Switched On site. It lives in the GitHub repo iptvtv-tech/switchedon, and GitHub Actions checks and publishes it (see Deploy). The site went live on 27 November 2026 with all 29 guides, and `preview_mode` is now off. Setting it back to true brings back the dark "Private preview" bar and tells search engines not to index the site (the runbook's way back). You can also run it on your PC (see View it on your PC).
 
 ## What's in it so far
 
@@ -241,8 +241,8 @@ Then the rest:
 
 These happen only after you say go, and nothing is pushed until you've reviewed it:
 
-- set `preview_mode: false` in `_config.yml`
-- add `date:` with the launch day to each guide's front matter. It's the published date Google sees; until it's set, Jekyll uses the time of each build
+- ~~set `preview_mode: false` in `_config.yml`~~ done at launch, 27 Nov 2026
+- ~~add `date:` with the launch day to each guide's front matter~~ done at launch: `date: 2026-11-27` on all 29 guides. It's the published date Google sees; a new guide gets the day it goes live
 - add the site to Google Search Console and Bing Webmaster Tools and submit the sitemap. The Search Console ownership check is a TXT record at Blacknight, so it can be done before launch
 - ~~hello@switchedon.ie~~ done 24 Nov 2026: a Proton Pass alias domain, the same as On Air Ireland's. MX, SPF, DKIM and DMARC records checked, the hello@ alias created and a test email sent and checked. Before the first newsletter, set up switchedon.ie in Brevo too (no second SPF record)
 - GoatCounter is set up (site code `switchedon` in `_config.yml`, added 26 Nov 2026): the counter loads on every page only once `preview_mode` is false, and the checks fail a launched page without it or a preview page with it. At launch, open the site and check the visit shows at switchedon.goatcounter.com

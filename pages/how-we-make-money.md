@@ -29,4 +29,4 @@ If something on the site looks like an ad and isn't labelled, tell us at [{{ sit
 
 Last updated: 24 November 2026.
 
-*[Preview: when we join an affiliate programme, list it here with the date we joined, and add any wording the programme requires, such as Amazon's.]*
+{% comment %}When we join an affiliate programme, list it here with the date we joined, and add any wording the programme requires, such as Amazon's.{% endcomment %}

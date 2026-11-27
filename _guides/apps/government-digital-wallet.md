@@ -7,6 +7,7 @@ format: quick-answer
 image: /assets/social/government-digital-wallet.png
 last_checked: 2026-11-26
 last_modified_at: 2026-11-26   # keep the same as last_checked: the "updated" date Google and the sitemap see
+date: 2026-11-27   # published: launch day
 approved: 2026-11-25   # approved by John Paul; re-check gov.ie/DigitalWallet the week before it's published and monthly until the wider release, then rewrite the answer when it launches
 verdict:
   answer: "Not yet: the pilot is closed"

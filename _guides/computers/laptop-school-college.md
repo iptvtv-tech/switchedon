@@ -7,6 +7,7 @@ format: buying-guide
 image: /assets/social/laptop-school-college.png
 last_checked: 2026-11-26
 last_modified_at: 2026-11-26   # keep the same as last_checked: the "updated" date Google and the sitemap see
+date: 2026-11-27   # published: launch day
 approved: 2026-11-23   # approved by John Paul; re-check every source in the week before launch
 affiliate: false       # true only once a card carries a paid link; turns on the Ad box
 products: [lenovo-ideapad-slim-5-14, macbook-air-13-m5]

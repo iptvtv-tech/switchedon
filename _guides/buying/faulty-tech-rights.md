@@ -8,6 +8,7 @@ popular: true
 image: /assets/social/faulty-tech-rights.png
 last_checked: 2026-11-26
 last_modified_at: 2026-11-26   # keep the same as last_checked: the "updated" date Google and the sitemap see
+date: 2026-11-27   # published: launch day
 approved: 2026-11-23   # approved by John Paul; re-check every source in the week before launch
 key_points:
   - "Within 30 days, you can reject a faulty item for a full refund."

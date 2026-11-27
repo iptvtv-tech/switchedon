@@ -8,6 +8,7 @@ format: guide
 image: /assets/social/poor-mobile-signal.png
 last_checked: 2026-11-26
 last_modified_at: 2026-11-26   # keep the same as last_checked: the "updated" date Google and the sitemap see
+date: 2026-11-27   # published: launch day
 approved: 2026-11-25   # approved by John Paul; re-check ComReg's repeater page and the 2026 Order the week before it's published
 key_points:
   - "ComReg's advice: check which network covers your home best, then turn on WiFi Calling, and lastly consider a mobile repeater."

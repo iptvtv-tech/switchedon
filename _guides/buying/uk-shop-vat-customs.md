@@ -8,6 +8,7 @@ popular: true
 image: /assets/social/uk-shop-vat-customs.png
 last_checked: 2026-11-26
 last_modified_at: 2026-11-26   # keep the same as last_checked: the "updated" date Google and the sitemap see
+date: 2026-11-27   # published: launch day
 prices_checked: 2026-11-26   # the date the prices below were read; price-date.html shows it
 approved: 2026-11-23   # approved by John Paul; re-check every source in the week before launch
 key_points:

@@ -23,7 +23,7 @@ whatsapp_channel: "https://whatsapp.com/channel/0029Vb9YPSJAjPXOdYd02B2Q"  # the
 newsletter_form: "https://e92b58f7.sibforms.com/serve/MUIFAJR_xYRpk6EI-mMeLho4E9mTRm1Os6OPpKoNOeb0hHCZPnDVBYpsFD6D319QamXkf2y1UuBp_-YcI5mByqd_K79upKaaYZgq-40s8OGE6IYxwC9GnpwpMUmOofLXe4qNKi2GknD7APg4fSKGQx83KNoK0c8IiLIQoKwNtXzICH4sftKhdw_R7whm6Nma2tM454cR4r01nt6b2A=="  # Brevo form "Switched On newsletter sign-up (website)": double opt-in into the list "Switched On newsletter"
 
 # Preview switches. preview_mode must be false before launch.
-preview_mode: true          # shows the "private preview" bar and tells search engines not to index
+preview_mode: false         # true shows the "private preview" bar and tells search engines not to index (off since launch, 27 Nov 2026)
 preview_google_fonts: false # false = the fonts in assets/fonts/ are used (as at launch); true = load them from Google
 goatcounter: "switchedon"      # GoatCounter site code (switchedon.goatcounter.com); the counter only loads when preview_mode is false
 
